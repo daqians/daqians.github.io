@@ -34,9 +34,9 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=4a0X-6wAAAAJ&hl=en"    # Google Scholar 个人主页
   impactstory      :    # ImpactStory 个人主页 URL
   orcid            : "https://orcid.org/0000-0003-2183-1957"    # ORCID 个人主页 URL
-  semantic         : "https://www.semanticscholar.org/author/D.-Shi/123417668"  # Semantic Scholar 个人主页 URL
+  semantic         :  # "https://www.semanticscholar.org/author/D.-Shi/123417668"  # Semantic Scholar 个人主页 URL
   pubmed           :     # PubMed 搜索 URL
-  researchgate     :  "https://www.researchgate.net/profile/Daqian-Shi"  # ResearchGate 个人主页 URL
+  researchgate     :   # "https://www.researchgate.net/profile/Daqian-Shi"  # ResearchGate 个人主页 URL
   scopus           :    # Scopus 个人主页 URL
 
   # 代码仓库和软件开发相关的链接

@@ -22,33 +22,33 @@ author:
   # 作者简介信息
   avatar           : "sdq.png"    # 作者头像图片路径
   name             : "Dr. Daqian Shi"    # 作者姓名
-  # pronouns         :    # 代词（例如："she/her"），如果需要显示性别偏好，可填写该字段
+  pronouns         :    # 代词（例如："she/her"），如果需要显示性别偏好，可填写该字段
   bio              : "Researcher in Machine Learning"    # 简短的个人介绍，显示在左侧边栏
   location         : "London"    # 作者位置
   employer         : "IHI, UCL"    # 作者的工作单位名称
-  # uri              :    # 个人网站地址（留空则不显示）
+  uri              :    # 个人网站地址（留空则不显示）
   email            : "daqian.shi@ucl.ac.uk"    # 电子邮件地址
 
   # 学术网站链接
-  arxiv            :    # arXiv 个人主页 URL
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"    # Google Scholar 个人主页
+  # arxiv            :    # arXiv 个人主页 URL
+  googlescholar    : "https://scholar.google.com/citations?user=4a0X-6wAAAAJ&hl=en"    # Google Scholar 个人主页
   impactstory      :    # ImpactStory 个人主页 URL
-  orcid            : "http://orcid.org/yourorcidurl"    # ORCID 个人主页 URL
-  semantic         :    # Semantic Scholar 个人主页 URL
+  orcid            : "https://orcid.org/0000-0003-2183-1957"    # ORCID 个人主页 URL
+  semantic         : "https://www.semanticscholar.org/author/D.-Shi/123417668"  # Semantic Scholar 个人主页 URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"    # PubMed 搜索 URL
-  researchgate     :    # ResearchGate 个人主页 URL
+  researchgate     :  "https://www.researchgate.net/profile/Daqian-Shi"  # ResearchGate 个人主页 URL
   scopus           :    # Scopus 个人主页 URL
 
   # 代码仓库和软件开发相关的链接
   bitbucket        :    # Bitbucket 用户名
   codepen          :    # CodePen 用户名
   dribbble         :    # Dribbble 用户名
-  github           : "academicpages"    # GitHub 用户名
+  github           : "daqians"    # GitHub 用户名
   kaggle           :    # Kaggle 用户名
   stackoverflow    :    # Stack Overflow 用户编号或编号和名称（例如 "1" 或 "1/jeff-atwood"）
 
   # 社交媒体链接
-  bluesky          : "bsky.app"    # Bluesky 社交平台的用户名
+  bluesky          :    # Bluesky 社交平台的用户名
   facebook         :    # Facebook 用户名
   flickr           :    # Flickr 用户名
   foursquare       :    # Foursquare 用户名

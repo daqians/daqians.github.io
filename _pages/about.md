@@ -11,26 +11,25 @@ redirect_from:
 
 Hi, welcome to my site! Glad to have you here! 👋
 
-<div style="width: 100%; text-align: justify;">
+<div style="width: 100%; text-align: justify; margin-bottom: 20px;">
 I am a postdoctoral research associate at the Digital Environment Research Institute (DERI), Queen Mary University of London. I received my master's degree from the University of Manchester, UK, and PhD from the University of Trento, Italy. Additionally, I had the privilege of being a visiting Ph.D. student at the University College London, UK. Furthermore, I have been a research assistant at Jilin Unievrsity, China. 
 </div>
 
+<div style="width: 100%; text-align: justify; margin-bottom: 20px;">
 My research interests focus on **Machine Learning**, **Computer Vision**, **Knowledge Representation**, and **AI4Science**. My current research can be broadly categorized into the following directions:
+</div>
 
+<div style="width: 100%; text-align: justify; margin-bottom: 20px;">
 <ol style="list-style-type: none;">
-  <li>(1). **Machine Learning Optimization Algorithms**</li>
-  <li>(2). **Deep Learning for Imbalance and Few-Shot Datasets**</li>
-  <li>(3). **Multi-Modality Learning for Healthcare**</li>
-  <li>(4). **Large Language Models Powered AI Agents**</li>
-  <li>(5). **Knowledge-Enhanced Trusted AI**</li>
+  <li>(1). Machine Learning Optimization Algorithms;</li>
+  <li>(2). Deep Learning for Imbalance and Few-Shot Datasets;</li>
+  <li>(3). Multi-Modality Learning for Healthcare;</li>
+  <li>(4). Large Language Models Powered AI Agents;</li>
+  <li>(5). Knowledge-Enhanced Trusted AI;</li>
+  <li>(6). LLM-assisted Embodied AI.</li>
 </ol>
+</div>
 
-
-1. (1) Machine Learning Optimization Algorithms;
-2. (2) Deep Learning for imbalance and few-shot datasets; 
-3. (3) Multi-modality Learning for healthcare;
-4. (4) Large Language Models Powered AI Agents;
-5. (5) Knowledge-enhanced Trusted AI.
 
 <!-- I will commence my postdoctoral research associate position at the Digital Environment Research Institute (DERI), Queen Mary University of London, in September 2024. My research interests focus on machine learning, computer vision, knowledge representation, and AI for science. I received my PhD from the Department of Information Engineering and Computer Science (ranked 1st in computer science in Italy) at the University of Trento, under the supervision of [Prof. Fausto Giunchiglia](https://scholar.google.com/citations?user=yDTC2DgAAAAJ&hl=en), Fellow of the European Academy of Sciences and the European Association for Artificial Intelligence. I was a visiting researcher at University College London (UCL) from 2022 to 2023, conducting research on AI for science projects. During my research career, I have published numerous papers as the first author or primary collaborator in top-tier journals and conferences (including ACM MM, CVPR, IJCAI, KBS, ACL, EMNLP, and FOIS) in the AI field, with 400+ citations. -->
 

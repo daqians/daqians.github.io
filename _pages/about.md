@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-**Daqian Shi** 
+***Daqian Shi***
 
 Hi, welcome to my site! Glad to have you here! 👋
 

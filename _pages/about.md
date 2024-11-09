@@ -11,7 +11,9 @@ redirect_from:
 
 Hi, welcome to my site! Glad to have you here! 👋
 
+<div style="width: 100%; text-align: justify;">
 I am a postdoctoral research associate at the Digital Environment Research Institute (DERI), Queen Mary University of London. I received my master's degree from the University of Manchester, UK, and PhD from the University of Trento, Italy. Additionally, I had the privilege of being a visiting Ph.D. student at the University College London, UK. Furthermore, I have been a research assistant at Jilin Unievrsity, China. 
+</div>
 
 My research interests focus on **Machine Learning**, **Computer Vision**, **Knowledge Representation**, and **AI4Science**. My current research can be broadly categorized into the following directions:
 

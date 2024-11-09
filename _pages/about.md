@@ -15,6 +15,15 @@ I am a postdoctoral research associate at the Digital Environment Research Insti
 
 My research interests focus on **Machine Learning**, **Computer Vision**, **Knowledge Representation**, and **AI4Science**. My current research can be broadly categorized into the following directions:
 
+<ol style="list-style-type: none;">
+  <li>(1). **Machine Learning Optimization Algorithms**</li>
+  <li>(2). **Deep Learning for Imbalance and Few-Shot Datasets**</li>
+  <li>(3). **Multi-Modality Learning for Healthcare**</li>
+  <li>(4). **Large Language Models Powered AI Agents**</li>
+  <li>(5). **Knowledge-Enhanced Trusted AI**</li>
+</ol>
+
+
 1. (1) Machine Learning Optimization Algorithms;
 2. (2) Deep Learning for imbalance and few-shot datasets; 
 3. (3) Multi-modality Learning for healthcare;

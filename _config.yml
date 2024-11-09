@@ -23,7 +23,7 @@ author:
   avatar           : "sdq.png"    # 作者头像图片路径
   name             : "Dr. Daqian Shi"    # 作者姓名
   pronouns         :    # 代词（例如："she/her"），如果需要显示性别偏好，可填写该字段
-  bio              : "Researcher in Machine Learning"    # 简短的个人介绍，显示在左侧边栏
+  bio              : "" #"Researcher in Machine Learning"    # 简短的个人介绍，显示在左侧边栏
   location         : "London"    # 作者位置
   employer         : "IHI, UCL"    # 作者的工作单位名称
   uri              :    # 个人网站地址（留空则不显示）

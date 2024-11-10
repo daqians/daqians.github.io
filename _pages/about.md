@@ -55,10 +55,8 @@ News & Events
 
 </div>
 
-Services
----------
 
-Projects
+Funds & Projects
 ---------
 
 International Collaborations

@@ -21,21 +21,46 @@ I am a postdoctoral research associate at the Digital Environment Research Insti
 
 
 <ol style="list-style-type: none; margin-top: 10px; line-height: 1;">
-  <li>(1). Machine Learning Optimization Algorithms;</li>
-  <li>(2). Deep Learning for Imbalance and Few-Shot Datasets;</li>
-  <li>(3). Multi-Modality Learning for Healthcare;</li>
-  <li>(4). Large Language Models Powered AI Agents;</li>
-  <li>(5). Knowledge-Enhanced Trusted AI;</li>
-  <li>(6). LLM-assisted Embodied AI.</li>
+  <li>(1) Machine Learning Optimization Algorithms;</li>
+  <li>(2) Deep Learning for Imbalance and Few-Shot Datasets;</li>
+  <li>(3) Multi-Modality Learning for Healthcare;</li>
+  <li>(4) Large Language Models Powered AI Agents;</li>
+  <li>(5) Knowledge-Enhanced Trusted AI;</li>
+  <li>(6) LLM-assisted Embodied AI.</li>
 </ol>
 
 
 <!-- I will commence my postdoctoral research associate position at the Digital Environment Research Institute (DERI), Queen Mary University of London, in September 2024. My research interests focus on machine learning, computer vision, knowledge representation, and AI for science. I received my PhD from the Department of Information Engineering and Computer Science (ranked 1st in computer science in Italy) at the University of Trento, under the supervision of [Prof. Fausto Giunchiglia](https://scholar.google.com/citations?user=yDTC2DgAAAAJ&hl=en), Fellow of the European Academy of Sciences and the European Association for Artificial Intelligence. I was a visiting researcher at University College London (UCL) from 2022 to 2023, conducting research on AI for science projects. During my research career, I have published numerous papers as the first author or primary collaborator in top-tier journals and conferences (including ACM MM, CVPR, IJCAI, KBS, ACL, EMNLP, and FOIS) in the AI field, with 400+ citations. -->
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
-
 A data-driven personal website
 ======
+
+<div style="width: 100%; max-height: 500px; overflow-y: auto; padding: 20px; background-color: #2a2a2a; color: #fff; border-radius: 10px; font-family: Arial, sans-serif;">
+
+<div style="margin-bottom: 20px;">
+  <strong>2024-10</strong><br>
+  We have 1 paper (Quantization on Bird's-Eye View Representation) accepted to <strong>WACV 2025</strong> and 1 paper (Semantic Segmentation on Autonomous Vehicles Platform) accepted to <strong>TCAD 2024</strong>.
+</div>
+
+<div style="margin-bottom: 20px;">
+  <strong>2024-09</strong><br>
+  🎉 🎉 🎉 I was elected as one of the <a href="#" style="color: #4f8ef7;">World's Top 2% Scientists in 2024 by Stanford University</a>, and we have 1 paper (Camera-Agnostic Attack) accepted to <strong>NeurIPS 2024</strong> and 1 paper (Medical Image Segmentation) accepted to <strong>ACCV 2024</strong>.
+</div>
+
+<div style="margin-bottom: 20px;">
+  <strong>2024-08</strong><br>
+  🎉 🎉 🎉 I was invited as a speaker at the <a href="#" style="color: #4f8ef7;">2nd Workshop & Challenge on Micro-gesture Analysis for Hidden Emotion Understanding (MiGA)</a> at IJCAI 2024 and we have 2 papers (Guided Image Translation + 3D Human Pose Estimation) accepted to <strong>PR 2024</strong>.
+</div>
+
+<div style="margin-bottom: 20px;">
+  <strong>2024-07</strong><br>
+  We have 6 papers (Motion Mamba + Dataset Growth + Story Visualization and Completion + Diffusion Model for Semantic Image Synthesis + Generalizable Image Editing + 3D Semantic Segmentation) accepted to <strong>ECCV 2024</strong>, 1 paper (Survey about Physical Adversarial Attack) accepted to <strong>TPAMI 2024</strong>, and two papers (Talking Head Avatar + Story Visualization and Continuation) accepted to <strong>ACM MM 2024</strong>.
+</div>
+
+</div>
+
+
+
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
 Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).

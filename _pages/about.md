@@ -16,11 +16,11 @@ I am a postdoctoral research associate at the Digital Environment Research Insti
 </div>
 
 <div style="width: 100%; text-align: justify; margin-bottom: 20px;">
-  My research interests focus on <strong>Machine Learning</strong>, <strong>Computer Vision</strong>, <strong>Knowledge Representation</strong>, and <strong>AI4Science</strong>. My current research can be broadly categorized into the following directions:
+  My research interests focus on <strong>Machine Learning</strong>, <strong>Computer Vision</strong>, <strong>AI4Science</strong>, and <strong>Knowledge Representation</strong>. My current research can be broadly categorized into the following directions:
 </div>
 
 
-<ol style="list-style-type: none;">
+<ol style="list-style-type: none; margin-top: 10px; line-height: 1;">
   <li>(1). Machine Learning Optimization Algorithms;</li>
   <li>(2). Deep Learning for Imbalance and Few-Shot Datasets;</li>
   <li>(3). Multi-Modality Learning for Healthcare;</li>

@@ -16,7 +16,7 @@ I am a postdoctoral research associate at the Digital Environment Research Insti
 </div>
 
 Research Interests
-======
+---------
 <div style="width: 100%; text-align: justify; margin-bottom: 20px;">
   My research interests focus on Machine Learning, Computer Vision, AI4Science, and Knowledge Representation. My current research can be broadly categorized into the following directions:
   <!-- My research interests focus on <strong>Machine Learning</strong>, <strong>Computer Vision</strong>, <strong>AI4Science</strong>, and <strong>Knowledge Representation</strong>. My current research can be broadly categorized into the following directions: -->
@@ -37,7 +37,7 @@ Research Interests
 <!-- I will commence my postdoctoral research associate position at the Digital Environment Research Institute (DERI), Queen Mary University of London, in September 2024. My research interests focus on machine learning, computer vision, knowledge representation, and AI for science. I received my PhD from the Department of Information Engineering and Computer Science (ranked 1st in computer science in Italy) at the University of Trento, under the supervision of [Prof. Fausto Giunchiglia](https://scholar.google.com/citations?user=yDTC2DgAAAAJ&hl=en), Fellow of the European Academy of Sciences and the European Association for Artificial Intelligence. I was a visiting researcher at University College London (UCL) from 2022 to 2023, conducting research on AI for science projects. During my research career, I have published numerous papers as the first author or primary collaborator in top-tier journals and conferences (including ACM MM, CVPR, IJCAI, KBS, ACL, EMNLP, and FOIS) in the AI field, with 400+ citations. -->
 
 News & Events
-======
+--------
 
 <div style="width: 100%; max-height: 500px; overflow-y: auto; padding: 20px; background-color: #ffffff; color: #000; border-radius: 10px; font-family: Arial, sans-serif; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
 
@@ -64,5 +64,10 @@ News & Events
 </div>
 
 
+International Collaborations
+---------
 
+
+Featured Publications
+---------
 

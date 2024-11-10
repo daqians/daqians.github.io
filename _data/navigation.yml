@@ -6,7 +6,7 @@
 
 main:
   - title: "About"
-    url: /portfolio/
+    url: /About/
     
   - title: "Publications"
     url: /publications/
@@ -22,8 +22,8 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+  - title: "Services"
+    url: /Services/
     
-  - title: "Guide"
-    url: /markdown/
+  - title: "Others"
+    url: /Others/

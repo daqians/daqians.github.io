@@ -1,4 +1,5 @@
 ---
+layout: archive
 permalink: /Others/
 title: "Others"
 author_profile: true

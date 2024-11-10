@@ -43,7 +43,7 @@ News & Events
 
 <div style="margin-bottom: 20px;">
   <strong>2022-05</strong><br>
-  We have 2 papers (Quantization on Bird's-Eye View Representation) accepted to <strong>ACM MM 2022</strong>.
+  🎉 🎉 🎉 We have 2 papers (Quantization on Bird's-Eye View Representation) accepted to <strong>ACM MM 2022</strong>.
 </div>
 
 

@@ -63,6 +63,11 @@ News & Events
 
 </div>
 
+Services
+---------
+
+Projects
+---------
 
 International Collaborations
 ---------

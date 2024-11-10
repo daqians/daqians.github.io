@@ -39,7 +39,7 @@ Research Interests
 News & Events
 ======
 
-<div style="width: 100%; max-height: 500px; overflow-y: auto; padding: 20px; background-color: #2a2a2a; color: #fff; border-radius: 10px; font-family: Arial, sans-serif;">
+<div style="width: 100%; max-height: 500px; overflow-y: auto; padding: 20px; background-color: #ffffff; color: #000; border-radius: 10px; font-family: Arial, sans-serif; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
 
 <div style="margin-bottom: 20px;">
   <strong>2024-10</strong><br>

@@ -1,10 +1,7 @@
 ---
-permalink: /markdown/
-title: "Markdown"
+permalink: /Others/
+title: "Others"
 author_profile: true
-redirect_from: 
-  - /md/
-  - /markdown.html
 ---
 
 ## Locations of key files/directories

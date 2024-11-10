@@ -46,20 +46,12 @@ News & Events
   We have 1 paper (Quantization on Bird's-Eye View Representation) accepted to <strong>WACV 2025</strong> and 1 paper (Semantic Segmentation on Autonomous Vehicles Platform) accepted to <strong>TCAD 2024</strong>.
 </div>
 
-<div style="margin-bottom: 20px;">
-  <strong>2024-09</strong><br>
-  🎉 🎉 🎉 I was elected as one of the <a href="#" style="color: #4f8ef7;">World's Top 2% Scientists in 2024 by Stanford University</a>, and we have 1 paper (Camera-Agnostic Attack) accepted to <strong>NeurIPS 2024</strong> and 1 paper (Medical Image Segmentation) accepted to <strong>ACCV 2024</strong>.
-</div>
 
 <div style="margin-bottom: 20px;">
   <strong>2024-08</strong><br>
   🎉 🎉 🎉 I was invited as a speaker at the <a href="#" style="color: #4f8ef7;">2nd Workshop & Challenge on Micro-gesture Analysis for Hidden Emotion Understanding (MiGA)</a> at IJCAI 2024 and we have 2 papers (Guided Image Translation + 3D Human Pose Estimation) accepted to <strong>PR 2024</strong>.
 </div>
 
-<div style="margin-bottom: 20px;">
-  <strong>2024-07</strong><br>
-  We have 6 papers (Motion Mamba + Dataset Growth + Story Visualization and Completion + Diffusion Model for Semantic Image Synthesis + Generalizable Image Editing + 3D Semantic Segmentation) accepted to <strong>ECCV 2024</strong>, 1 paper (Survey about Physical Adversarial Attack) accepted to <strong>TPAMI 2024</strong>, and two papers (Talking Head Avatar + Story Visualization and Continuation) accepted to <strong>ACM MM 2024</strong>.
-</div>
 
 </div>
 

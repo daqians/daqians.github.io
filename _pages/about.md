@@ -42,8 +42,8 @@ News & Events
 <div style="width: 100%; max-height: 500px; overflow-y: auto; padding: 20px; background-color: #ffffff; color: #000; border-radius: 10px; font-family: Arial, sans-serif; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
 
 <div style="margin-bottom: 20px;">
-  <strong>2024-10</strong><br>
-  We have 1 paper (Quantization on Bird's-Eye View Representation) accepted to <strong>WACV 2025</strong> and 1 paper (Semantic Segmentation on Autonomous Vehicles Platform) accepted to <strong>TCAD 2024</strong>.
+  <strong>2022-05</strong><br>
+  We have 2 papers (Quantization on Bird's-Eye View Representation) accepted to <strong>ACM MM 2022</strong>.
 </div>
 
 

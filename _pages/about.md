@@ -162,8 +162,10 @@ News & Events
 Funds & Projects
 ---------
 
-Current Projects:
-================
+We are dedicated to harnessing the power of AI to address complex scientific challenges. We focus on developing AI systems that are applicable across diverse scientific fields and real-world applications. Our key areas of interest include Few-shot learning, AI for Science, especially AI for Healthcare, computer vision, multi-modality learning, large language models (LLMs), and embodied AI. We believe that these advanced tools, when effectively utilized, have the potential to drive significant breakthroughs in understanding intricate systems and solving real-world problems through intelligent, adaptive, and data-driven methods.
+
+### Current Projects:
+
 - AI future[asd](http://adad)
 
 - 国自然面上项目：
@@ -178,15 +180,15 @@ Current Projects:
   🎉 🎉 🎉 Our team was granted by <a href="https://www.nsfc.gov.cn/publish/portal0/tab1417/" style="color: #4f8ef7;">National Natural Science Foundation of China (NSFC) General Program</a>, and I was granted by UKVI Royal Society as <a href="https://www.gov.uk/global-talent" style="color: #4f8ef7;">Global Talent</a>. 
 </div>
 
-Past Projects:
-================
+### Past Projects:
+
 
 International Collaborations
 ---------
-Our lab maintains strong collaborative relationships with several leading international research institutions, including
-- China: Jilin University, Shanghai Jiao Tong University, Tongji University, Hongkong University;
+Our lab maintains strong collaborative relationships with several leading international research institutions, including:
+- China: Beijing University, Shanghai Jiao Tong University, Tongji University, Hongkong University, Jilin University, The Second Norman Bethune Hospital of Jilin University, The Third Norman Bethune Hospital of Jilin University, Shanghai Sixth People's Hospital Affiliated to Shanghai Jiaotong University, Ruijin Hospital Shanghai Jiaotong University School Of Medicine, Shanghai East Hospital of Tongji University, Chongqing Medical University;
 - Italy: University of Trento;
-- UK: University of Cambridge, University of Oxford, Imperial College London, University College London, Queen Mary University of London University of Glasgow, University of Edinburgh;
+- UK: University of Cambridge, University of Oxford, Imperial College London, University College London, Queen Mary University of London University of Glasgow, University of Edinburgh, UCL Hospital;
 
 
 Featured Publications

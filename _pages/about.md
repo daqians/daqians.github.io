@@ -41,15 +41,73 @@ News & Events
 
 <div style="width: 100%; max-height: 500px; overflow-y: auto; padding: 20px; background-color: #ffffff; color: #000; border-radius: 10px; font-family: Arial, sans-serif; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
 
-<div style="margin-bottom: 20px;">
-  <strong>2022-05</strong><br>
-  🎉 🎉 🎉 We have 2 papers (Quantization on Bird's-Eye View Representation) accepted to <strong>ACM MM 2022</strong>.
-</div>
+
 
 
 <div style="margin-bottom: 20px;">
   <strong>2024-08</strong><br>
   🎉 🎉 🎉 I was invited as a speaker at the <a href="#" style="color: #4f8ef7;">2nd Workshop & Challenge on Micro-gesture Analysis for Hidden Emotion Understanding (MiGA)</a> at IJCAI 2024 and we have 2 papers (Guided Image Translation + 3D Human Pose Estimation) accepted to <strong>PR 2024</strong>.
+</div>
+
+<div style="margin-bottom: 20px;">
+  <strong>2024-03</strong><br>
+  We have 1 paper (Knowledge graph matching) accepted to <strong>CJournal of Web Semantics (JoWS)</strong>.
+</div>
+
+<div style="margin-bottom: 20px;">
+  <strong>2023-11</strong><br>
+  We have 1 paper (Radiology report summarization) accepted to <strong>Association for Computational Linguistics, ACL 2023</strong>.
+</div>
+
+<div style="margin-bottom: 20px;">
+  <strong>2022-08</strong><br>
+  We have 1 paper (Zero-shot character recognition) accepted to <strong>Proceedings of the 31th ACM International Conference on Multimedia, ACM MM 2023</strong>.
+</div>
+
+<div style="margin-bottom: 20px;">
+  <strong>2023-06</strong><br>
+  We have 1 paper (Knowledge graph matching) accepted to <strong>Proceeding of the 13th international conference on formal ontology in information systems, FOIS 2023</strong>.
+</div>
+
+<div style="margin-bottom: 20px;">
+  <strong>2023-04</strong><br>
+  We have 1 paper (Zero-shot character recognition) accepted to <strong>Proceedings of the Thirty-Second International Joint Conference on Artificial Intelligence, IJCAI 2023</strong>.
+</div>
+
+<div style="margin-bottom: 20px;">
+  <strong>2023-02</strong><br>
+  🎉 🎉 🎉 We have 1 paper (Long-tailed visual recognition) accepted to <strong>Proceedings of the IEEE/CVF conference on computer vision and pattern recognition, CVPR 2022</strong>.
+</div>
+
+<div style="margin-bottom: 20px;">
+  <strong>2022-11</strong><br>
+  We have 1 paper (Contrastive learning for argument pair identification) accepted to <strong>Conference on Empirical Methods in Natural Language Processing, EMNLP 2022</strong>.
+</div>
+
+<div style="margin-bottom: 20px;">
+  <strong>2022-07</strong><br>
+  🎉 🎉 🎉 We have 2 papers (Historical character image denoising & Character image classification) accepted to <strong>ACM international conference on multimedia, ACM MM 2022</strong>.
+</div>
+
+<div style="margin-bottom: 20px;">
+  <strong>2022-03</strong><br>
+  We have 1 paper (Historical character classification) accepted to <strong>Association for Computational Linguistics, ACL 2022</strong>.
+</div>
+
+<div style="margin-bottom: 20px;">
+  <strong>2021-09</strong><br>
+  We have 1 paper (Few-shot remote sensing scene classification) accepted to <strong>IEEE Transactions on Geoscience and Remote Sensing Journal (TGRS)</strong>.
+</div>
+
+
+<div style="margin-bottom: 20px;">
+  <strong>2021-07</strong><br>
+  We have 1 paper (Knowledge graph matching) accepted to <strong>The 20th International Semantic Web Conference, ISWC 2021</strong>.
+</div>
+
+<div style="margin-bottom: 20px;">
+  <strong>2020-02</strong><br>
+  🎉 🎉 🎉 We have 1 paper (Knowledge-based learning path recommendation) accepted to <strong>Knowledge-Based Systems Journal (KBS)</strong>.
 </div>
 
 
@@ -58,6 +116,8 @@ News & Events
 
 Funds & Projects
 ---------
+1. AI future
+2. 国自然面上项目：
 
 International Collaborations
 ---------

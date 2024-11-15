@@ -34,8 +34,6 @@ Research Interests
 </ol>
 
 
-<!-- I will commence my postdoctoral research associate position at the Digital Environment Research Institute (DERI), Queen Mary University of London, in September 2024. My research interests focus on machine learning, computer vision, knowledge representation, and AI for science. I received my PhD from the Department of Information Engineering and Computer Science (ranked 1st in computer science in Italy) at the University of Trento, under the supervision of [Prof. Fausto Giunchiglia](https://scholar.google.com/citations?user=yDTC2DgAAAAJ&hl=en), Fellow of the European Academy of Sciences and the European Association for Artificial Intelligence. I was a visiting researcher at University College London (UCL) from 2022 to 2023, conducting research on AI for science projects. During my research career, I have published numerous papers as the first author or primary collaborator in top-tier journals and conferences (including ACM MM, CVPR, IJCAI, KBS, ACL, EMNLP, and FOIS) in the AI field, with 400+ citations. -->
-
 News & Events
 --------
 
@@ -158,21 +156,31 @@ News & Events
 
 </div>
 
+Research Group
+------------------
+We are dedicated to harnessing the power of AI to address complex scientific challenges. We focus on developing AI systems that are applicable across diverse scientific fields and real-world applications. Our key areas of interest include Few-shot learning, AI for Science, especially AI for Healthcare, computer vision, multi-modality learning, large language models (LLMs), and embodied AI. We believe that these advanced tools, when effectively utilized, have the potential to drive significant breakthroughs in understanding intricate systems and solving real-world problems through intelligent, adaptive, and data-driven methods.
+
+### Current members:
+
+### Former members and visitors:
+
+Position Openings
+------------------
+
 
 Funds & Projects
 ---------
 
-We are dedicated to harnessing the power of AI to address complex scientific challenges. We focus on developing AI systems that are applicable across diverse scientific fields and real-world applications. Our key areas of interest include Few-shot learning, AI for Science, especially AI for Healthcare, computer vision, multi-modality learning, large language models (LLMs), and embodied AI. We believe that these advanced tools, when effectively utilized, have the potential to drive significant breakthroughs in understanding intricate systems and solving real-world problems through intelligent, adaptive, and data-driven methods.
 
 ### Current Projects:
 
-- [National Natural Science Foundation of China (NSFC) General Program](https://www.nsfc.gov.cn/publish/portal0/tab1417/) with overall budget ￥400k
+- 2024-2028 [National Natural Science Foundation of China (NSFC) General Program](https://www.nsfc.gov.cn/publish/portal0/tab1417/) with overall budget ￥400k
 
 
 
 ### Past Projects:
 
-- 2024 - 2028 [AI future](https://www.great.gov.uk/campaign-site/ai-futures/#:~:text=The%20UK%20Government's%20AI%20Futures,the%20UK's%20thriving%20AI%20ecosystem.) with an overall budget ￡8k. 
+- 2024-2028 [AI future](https://www.great.gov.uk/campaign-site/ai-futures/#:~:text=The%20UK%20Government's%20AI%20Futures,the%20UK's%20thriving%20AI%20ecosystem.) with an overall budget ￡8k. 
 
 International Collaborations
 ---------

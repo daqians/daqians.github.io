@@ -41,6 +41,8 @@ News & Events
 
 <div style="width: 100%; max-height: 500px; overflow-y: auto; padding: 20px; background-color: #ffffff; color: #000; border-radius: 10px; font-family: Arial, sans-serif; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
 
+<!-- <a href="" style="color: #4f8ef7;"> </a>-->
+
 <div style="margin-bottom: 20px;">
   <strong>2024-10</strong><br>
   🎉 🎉 🎉 Our Team has won top 5 in the IEEE Region 8 Climate Challenges: <a href="https://www.ieee-ukandireland.org/ieee-region-8-climate-challenges-ai-in-enhanced-weather-forecasting-hackathon/#:~:text=We%20are%20excited%20to%20invite,of%20short%2Dterm%20weather%20forecasts." style="color: #4f8ef7;">AI in Enhanced Weather Forecasting</a>, I was invited as a speaker on the workshop.
@@ -53,12 +55,17 @@ News & Events
 
 <div style="margin-bottom: 20px;">
   <strong>2024-08</strong><br>
-  🎉 🎉 🎉 Our team was granted by <a href="https://www.nsfc.gov.cn/publish/portal0/tab1417/" style="color: #4f8ef7;">National Natural Science Foundation of China (NSFC) General Program</a>. 
+  🎉 🎉 🎉 Our team was granted by <a href="https://www.nsfc.gov.cn/publish/portal0/tab1417/" style="color: #4f8ef7;">National Natural Science Foundation of China (NSFC) General Program</a>, and I was granted by UKVI Royal Society as <a href="https://www.gov.uk/global-talent" style="color: #4f8ef7;">Global Talent</a>. 
 </div>
 
 <div style="margin-bottom: 20px;">
   <strong>2024-07</strong><br>
   I received offers from UCL and QMUL.
+</div>
+
+<div style="margin-bottom: 20px;">
+  <strong>2024-04</strong><br>
+  I received my PhD degree from the DISI, University of Trento, Italy.
 </div>
 
 <div style="margin-bottom: 20px;">
@@ -145,7 +152,7 @@ News & Events
 
 <div style="margin-bottom: 20px;">
   <strong>2018-09</strong><br>
-🎉 🎉 🎉 I finished my Master's degree from the Unievrsity of Manchester.
+🎉 🎉 🎉 I finished my Master's degree from the Unievrsity of Manchester with a Distinction (top 5%).
 </div>
 
 

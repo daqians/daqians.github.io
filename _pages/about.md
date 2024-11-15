@@ -43,7 +43,7 @@ News & Events
 
 <div style="margin-bottom: 20px;">
   <strong>2024-10</strong><br>
-  🎉 🎉 🎉 Our Team has won top 5 in the IEEE Region 8 Climate Challenges - "<a href="https://www.ieee-ukandireland.org/ieee-region-8-climate-challenges-ai-in-enhanced-weather-forecasting-hackathon/#:~:text=We%20are%20excited%20to%20invite,of%20short%2Dterm%20weather%20forecasts." style="color: #4f8ef7;">AI in Enhanced Weather Forecasting</a>", I was invited as a speaker on the workshop.
+  🎉 🎉 🎉 Our Team has won top 5 in the IEEE Region 8 Climate Challenges: <a href="https://www.ieee-ukandireland.org/ieee-region-8-climate-challenges-ai-in-enhanced-weather-forecasting-hackathon/#:~:text=We%20are%20excited%20to%20invite,of%20short%2Dterm%20weather%20forecasts." style="color: #4f8ef7;">AI in Enhanced Weather Forecasting</a>, I was invited as a speaker on the workshop.
 </div>
 
 <div style="margin-bottom: 20px;">

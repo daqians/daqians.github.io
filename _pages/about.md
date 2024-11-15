@@ -51,7 +51,7 @@ News & Events
 
 <div style="margin-bottom: 20px;">
   <strong>2024-09</strong><br>
-  🎉 🎉 🎉 I was granted by AI Future project with ￡8k. 
+  🎉 🎉 🎉 I was granted by <a href="" style="color: #4f8ef7;">AI Future project<a> with ￡8k funding. 
 </div>
 
 <div style="margin-bottom: 20px;">
@@ -71,7 +71,7 @@ News & Events
 
 <div style="margin-bottom: 20px;">
   <strong>2023-07</strong><br>
-  🎉 🎉 🎉 I was granted by ACM MM 2023. 
+  🎉 🎉 🎉 I was granted by ACM MM  2023. 
 </div>
 
 <div style="margin-bottom: 20px;">
@@ -87,7 +87,7 @@ News & Events
 
 <div style="margin-bottom: 20px;">
   <strong>2023-05</strong><br>
-  🎉 🎉 🎉 I was granted by IJCAI 2023. 
+  🎉 🎉 🎉 I was granted by <a href="https://ijcai-23.org/ijcai-aij-2023-travel-and-accessibility-grant-program/#:~:text=Application%20Procedure&text=Applicants%20must%20submit%20the%20IJCAI,(before%20early%20registration%20deadline)." style="color: #4f8ef7;">IJCAI-AIJ 2023 Travel and Accessibility Grant Program<a>. 
 </div>
 
 <div style="margin-bottom: 20px;">

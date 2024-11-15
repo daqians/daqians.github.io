@@ -166,22 +166,13 @@ We are dedicated to harnessing the power of AI to address complex scientific cha
 
 ### Current Projects:
 
-- AI future[asd](http://adad)
+- [National Natural Science Foundation of China (NSFC) General Program](https://www.nsfc.gov.cn/publish/portal0/tab1417/) with overall budget ￥400k
 
-- 国自然面上项目：
 
-<div style="margin-bottom: 20px;">
-  <strong>2024-09</strong><br>
-  🎉 🎉 🎉 I was granted by <a href="https://www.great.gov.uk/campaign-site/ai-futures/#:~:text=The%20UK%20Government's%20AI%20Futures,the%20UK's%20thriving%20AI%20ecosystem." style="color: #4f8ef7;">AI Future project</a> with an overall budget ￡8k . 
-</div>
-
-<div style="margin-bottom: 20px;">
-  <strong>2024-08</strong><br>
-  🎉 🎉 🎉 Our team was granted by <a href="https://www.nsfc.gov.cn/publish/portal0/tab1417/" style="color: #4f8ef7;">National Natural Science Foundation of China (NSFC) General Program</a>, and I was granted by UKVI Royal Society as <a href="https://www.gov.uk/global-talent" style="color: #4f8ef7;">Global Talent</a>. 
-</div>
 
 ### Past Projects:
 
+- 2024 - 2028 [AI future](https://www.great.gov.uk/campaign-site/ai-futures/#:~:text=The%20UK%20Government's%20AI%20Futures,the%20UK's%20thriving%20AI%20ecosystem.) with an overall budget ￡8k. 
 
 International Collaborations
 ---------

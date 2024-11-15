@@ -50,7 +50,7 @@ News & Events
 
 <div style="margin-bottom: 20px;">
   <strong>2024-09</strong><br>
-  🎉 🎉 🎉 I was granted by <a href="https://www.great.gov.uk/campaign-site/ai-futures/#:~:text=The%20UK%20Government's%20AI%20Futures,the%20UK's%20thriving%20AI%20ecosystem." style="color: #4f8ef7;">AI Future project</a> with ￡8k funding. 
+  🎉 🎉 🎉 I was granted by <a href="https://www.great.gov.uk/campaign-site/ai-futures/#:~:text=The%20UK%20Government's%20AI%20Futures,the%20UK's%20thriving%20AI%20ecosystem." style="color: #4f8ef7;">AI Future project</a> with an overall budget ￡8k . 
 </div>
 
 <div style="margin-bottom: 20px;">
@@ -161,8 +161,19 @@ News & Events
 
 Funds & Projects
 ---------
-1. AI future
+1. AI future[asd](http://adad)
+
 2. 国自然面上项目：
+
+<div style="margin-bottom: 20px;">
+  <strong>2024-09</strong><br>
+  🎉 🎉 🎉 I was granted by <a href="https://www.great.gov.uk/campaign-site/ai-futures/#:~:text=The%20UK%20Government's%20AI%20Futures,the%20UK's%20thriving%20AI%20ecosystem." style="color: #4f8ef7;">AI Future project</a> with an overall budget ￡8k . 
+</div>
+
+<div style="margin-bottom: 20px;">
+  <strong>2024-08</strong><br>
+  🎉 🎉 🎉 Our team was granted by <a href="https://www.nsfc.gov.cn/publish/portal0/tab1417/" style="color: #4f8ef7;">National Natural Science Foundation of China (NSFC) General Program</a>, and I was granted by UKVI Royal Society as <a href="https://www.gov.uk/global-talent" style="color: #4f8ef7;">Global Talent</a>. 
+</div>
 
 International Collaborations
 ---------

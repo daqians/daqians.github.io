@@ -161,9 +161,12 @@ News & Events
 
 Funds & Projects
 ---------
-1. AI future[asd](http://adad)
 
-2. 国自然面上项目：
+Current Projects:
+================
+- AI future[asd](http://adad)
+
+- 国自然面上项目：
 
 <div style="margin-bottom: 20px;">
   <strong>2024-09</strong><br>
@@ -175,8 +178,15 @@ Funds & Projects
   🎉 🎉 🎉 Our team was granted by <a href="https://www.nsfc.gov.cn/publish/portal0/tab1417/" style="color: #4f8ef7;">National Natural Science Foundation of China (NSFC) General Program</a>, and I was granted by UKVI Royal Society as <a href="https://www.gov.uk/global-talent" style="color: #4f8ef7;">Global Talent</a>. 
 </div>
 
+Past Projects:
+================
+
 International Collaborations
 ---------
+Our lab maintains strong collaborative relationships with several leading international research institutions, including
+- China: Jilin University, Shanghai Jiao Tong University, Tongji University, Hongkong University;
+- Italy: University of Trento;
+- UK: University of Cambridge, University of Oxford, Imperial College London, University College London, Queen Mary University of London University of Glasgow, University of Edinburgh;
 
 
 Featured Publications

@@ -50,8 +50,18 @@ News & Events
 </div>
 
 <div style="margin-bottom: 20px;">
+  <strong>2024-09</strong><br>
+  🎉 🎉 🎉 I was granted by AI Future project with ￡8k. 
+</div>
+
+<div style="margin-bottom: 20px;">
+  <strong>2024-07</strong><br>
+  I received offers from UCL and QMUL.
+</div>
+
+<div style="margin-bottom: 20px;">
   <strong>2024-03</strong><br>
-  We have 1 paper (Knowledge graph matching) accepted to <strong>CJournal of Web Semantics (JoWS)</strong>.
+  We have 1 paper (Knowledge graph matching) accepted to <strong>The Journal of Web Semantics (JoWS)</strong>.
 </div>
 
 <div style="margin-bottom: 20px;">
@@ -60,13 +70,24 @@ News & Events
 </div>
 
 <div style="margin-bottom: 20px;">
-  <strong>2022-08</strong><br>
-  We have 1 paper (Zero-shot character recognition) accepted to <strong>Proceedings of the 31th ACM International Conference on Multimedia, ACM MM 2023</strong>.
+  <strong>2023-07</strong><br>
+  🎉 🎉 🎉 I was granted by ACM MM 2023. 
 </div>
 
 <div style="margin-bottom: 20px;">
   <strong>2023-06</strong><br>
+  We have 1 paper (Zero-shot character recognition) accepted to <strong>Proceedings of the 31th ACM International Conference on Multimedia, ACM MM 2023</strong>.
+</div>
+
+
+<div style="margin-bottom: 20px;">
+  <strong>2023-06</strong><br>
   We have 1 paper (Knowledge graph matching) accepted to <strong>Proceeding of the 13th international conference on formal ontology in information systems, FOIS 2023</strong>.
+</div>
+
+<div style="margin-bottom: 20px;">
+  <strong>2023-05</strong><br>
+  🎉 🎉 🎉 I was granted by IJCAI 2023. 
 </div>
 
 <div style="margin-bottom: 20px;">
@@ -82,6 +103,11 @@ News & Events
 <div style="margin-bottom: 20px;">
   <strong>2022-11</strong><br>
   We have 1 paper (Contrastive learning for argument pair identification) accepted to <strong>Conference on Empirical Methods in Natural Language Processing, EMNLP 2022</strong>.
+</div>
+
+<div style="margin-bottom: 20px;">
+  <strong>2022-08</strong><br>
+  🎉 🎉 🎉 I received an offer from Institute of Health Informatics (IHI), UCL.
 </div>
 
 <div style="margin-bottom: 20px;">
@@ -108,6 +134,16 @@ News & Events
 <div style="margin-bottom: 20px;">
   <strong>2020-02</strong><br>
   🎉 🎉 🎉 We have 1 paper (Knowledge-based learning path recommendation) accepted to <strong>Knowledge-Based Systems Journal (KBS)</strong>.
+</div>
+
+<div style="margin-bottom: 20px;">
+  <strong>2018-09</strong><br>
+🎉 🎉 🎉 I received an offer for a research assistant position at Jilin University.
+</div>
+
+<div style="margin-bottom: 20px;">
+  <strong>2018-09</strong><br>
+🎉 🎉 🎉 I finished my Master's degree from the Unievrsity of Manchester.
 </div>
 
 

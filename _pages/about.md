@@ -13,6 +13,8 @@ redirect_from:
         flex-direction: column;
         font-family: Arial, sans-serif;
         line-height: 1.5;
+        padding-left: 10px; /* 或者减少左侧的 padding */
+        margin-left: -10px; /* 使用负 margin 向左移动整个时间线 */
     }
     .timeline-item {
         display: flex;
@@ -27,7 +29,7 @@ redirect_from:
         padding-right: 20px;  /* 确保日期和描述之间有一些空隙 */
     }
     .timeline-content {
-        width: 100%;
+        width: 90%;
     }
     /* .event-highlight {
         color: #4f8ef7;

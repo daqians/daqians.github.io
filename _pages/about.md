@@ -143,7 +143,7 @@ News & Events
 
 <div style="margin-bottom: 20px;">
   <strong>2021-07</strong><br>
-  We have 1 paper (Knowledge graph matching) accepted to <strong>The 20th International Semantic Web Conference, ISWC 2021</strong>.
+  We have 1 paper (Knowledge graph matching) accepted to <strong>The 20th International Semantic Web Conference, ISWC 2021</strong>. <br>
 
   <strong>2021-06</strong><br>
   We obtained 2 granted patents and 4 software copyrights.

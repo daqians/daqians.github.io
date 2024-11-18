@@ -9,7 +9,7 @@ author_profile: true
 
 
 
-<div style="max-width: 800px; margin: 0 auto; padding: 20px;">
+<div style="max-width: 800px; margin: 0 auto; padding: 0px;">
 
     <h2>Education</h2>
     <ul>

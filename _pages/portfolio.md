@@ -23,20 +23,17 @@ Work experience
 * Fall 2016: Visiting Student at University of Oxford, Oriel College;
 * Summer 2016: Intern Software Engineer at Bosch, Innovation and Software Development;
 
-Skills
+<!-- Skills
 ======
 * Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Skill 2 -->
 
-Publications
+
+<!-- Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Talks
 ======

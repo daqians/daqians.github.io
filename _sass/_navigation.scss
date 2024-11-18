@@ -171,9 +171,15 @@
 /*
    Priority plus navigation
    ========================================================================== */
-
+// .greedy-nav {
+//     display: flex;
+//     justify-content: flex-end; // 将导航栏内容右对齐
+//     padding-right: 20px;       // 调整右侧内边距，确保和页面右边保持合适的距离
+//     align-items: center;       // 垂直居中对齐
+//   }
 .greedy-nav {
   position: relative;
+  justify-content: flex-end; 
   min-width: 250px;
   background: $background-color;
 

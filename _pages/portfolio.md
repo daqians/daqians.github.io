@@ -16,11 +16,11 @@ Education
 
 Work experience
 ======
-* 2024.6-present, Research Fellow at UCL, Institute of Health Informatics;
-* 2022.10-2023.04,  Visiting Researcher at UCL, Institute of Health Informatics;
-* 2018.11-2019.11: Research Assistant at Jilin University, School of Computer Science and Technology
-* Fall 2015: Research Assistant
-* Summer 2015: Research Assistant
+* 2024-present: Research Fellow at UCL, Institute of Health Informatics;
+* 2022-2023: Visiting Researcher at UCL, Institute of Health Informatics;
+* 2018-2019: Research Assistant at Jilin University, School of Computer Science and Technology;
+* Fall 2016: Visiting Student at University of Oxford, Oriel College;
+* Summer 2016: Intern Software Engineer at Bosch, Innovation and Software Development;
 
 Skills
 ======

@@ -16,6 +16,7 @@ Education
 
 Work experience
 ======
+* 2024-present: Postdoctoral Research Associate at Queen Mary University of London, Digital Environment Research Institute (DERI);
 * 2024-present: Research Fellow at UCL, Institute of Health Informatics;
 * 2022-2023: Visiting Researcher at UCL, Institute of Health Informatics;
 * 2018-2019: Research Assistant at Jilin University, School of Computer Science and Technology;

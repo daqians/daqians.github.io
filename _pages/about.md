@@ -43,125 +43,79 @@ News & Events
 
 <div style="margin-bottom: 20px;">
   <strong>2024-10</strong><br>
-  🎉 🎉 🎉 Our Team has won top 5 in the IEEE Region 8 Climate Challenges: <a href="https://www.ieee-ukandireland.org/ieee-region-8-climate-challenges-ai-in-enhanced-weather-forecasting-hackathon/#:~:text=We%20are%20excited%20to%20invite,of%20short%2Dterm%20weather%20forecasts." style="color: #4f8ef7;">AI in Enhanced Weather Forecasting</a>, I was invited as a speaker on the workshop.
-</div>
+  🎉 🎉 🎉 Our Team has won top 5 in the IEEE Region 8 Climate Challenges: <a href="https://www.ieee-ukandireland.org/ieee-region-8-climate-challenges-ai-in-enhanced-weather-forecasting-hackathon/#:~:text=We%20are%20excited%20to%20invite,of%20short%2Dterm%20weather%20forecasts." style="color: #4f8ef7;">AI in Enhanced Weather Forecasting</a>, I was invited as a speaker on the workshop. <br>
 
-<div style="margin-bottom: 20px;">
   <strong>2024-09</strong><br>
-  🎉 🎉 🎉 I was granted by <a href="https://www.great.gov.uk/campaign-site/ai-futures/#:~:text=The%20UK%20Government's%20AI%20Futures,the%20UK's%20thriving%20AI%20ecosystem." style="color: #4f8ef7;">AI Future project</a>. 
-</div>
+  🎉 🎉 🎉 I was granted by <a href="https://www.great.gov.uk/campaign-site/ai-futures/#:~:text=The%20UK%20Government's%20AI%20Futures,the%20UK's%20thriving%20AI%20ecosystem." style="color: #4f8ef7;">AI Future project</a>.  <br>
 
-<div style="margin-bottom: 20px;">
   <strong>2024-08</strong><br>
-  🎉 🎉 🎉 Our team was granted by <a href="https://www.nsfc.gov.cn/publish/portal0/tab1417/" style="color: #4f8ef7;">National Natural Science Foundation of China (NSFC) General Program</a>, and I was granted by UKVI Royal Society as <a href="https://www.gov.uk/global-talent" style="color: #4f8ef7;">Global Talent</a>. 
-</div>
+  🎉 🎉 🎉 Our team was granted by <a href="https://www.nsfc.gov.cn/publish/portal0/tab1417/" style="color: #4f8ef7;">National Natural Science Foundation of China (NSFC) General Program</a>, and I was granted by UKVI Royal Society as <a href="https://www.gov.uk/global-talent" style="color: #4f8ef7;">Global Talent</a>. <br>
 
-<div style="margin-bottom: 20px;">
   <strong>2024-07</strong><br>
-  I received offers from UCL and QMUL.
-</div>
+  I received offers from UCL and QMUL. <br>
 
-<div style="margin-bottom: 20px;">
   <strong>2024-06</strong><br>
-  We obtained 3 granted patents.
-</div>
+  We obtained 3 granted patents. <br>
 
-<div style="margin-bottom: 20px;">
   <strong>2024-04</strong><br>
-  I received my PhD degree from the DISI, University of Trento, Italy.
-</div>
+  I received my PhD degree from the DISI, University of Trento, Italy. <br>
 
-<div style="margin-bottom: 20px;">
   <strong>2024-03</strong><br>
-  We have 1 paper (Knowledge graph matching) accepted to <strong>The Journal of Web Semantics (JoWS)</strong>.
-</div>
+  We have 1 paper (Knowledge graph matching) accepted to <strong>The Journal of Web Semantics (JoWS)</strong>. <br>
 
-<div style="margin-bottom: 20px;">
   <strong>2023-11</strong><br>
-  We have 1 paper (Radiology report summarization) accepted to <strong>Association for Computational Linguistics, ACL 2023</strong>.
-</div>
+  We have 1 paper (Radiology report summarization) accepted to <strong>Association for Computational Linguistics, ACL 2023</strong>. <br>
 
-<div style="margin-bottom: 20px;">
   <strong>2023-07</strong><br>
-  🎉 🎉 🎉 I was granted by <a href="https://www.acmmm2023.org/student-travel-grants/#:~:text=Students%20must%20apply%20for%20a,for%20a%20SIGMM%20travel%20award." style="color: #4f8ef7;">ACM MM 2023 STUDENT TRAVEL GRANTS</a>. 
-</div>
+  🎉 🎉 🎉 I was granted by <a href="https://www.acmmm2023.org/student-travel-grants/#:~:text=Students%20must%20apply%20for%20a,for%20a%20SIGMM%20travel%20award." style="color: #4f8ef7;">ACM MM 2023 STUDENT TRAVEL GRANTS</a>.  <br>
 
-<div style="margin-bottom: 20px;">
   <strong>2023-06</strong><br>
-  We have 1 paper (Zero-shot character recognition) accepted to <strong>Proceedings of the 31th ACM International Conference on Multimedia, ACM MM 2023</strong>, and we obtained 2 granted patents..
-</div>
+  We have 1 paper (Zero-shot character recognition) accepted to <strong>Proceedings of the 31th ACM International Conference on Multimedia, ACM MM 2023</strong>, and we obtained 2 granted patents. <br>
 
-<div style="margin-bottom: 20px;">
   <strong>2023-06</strong><br>
-  We have 1 paper (Knowledge graph matching) accepted to <strong>Proceeding of the 13th international conference on formal ontology in information systems, FOIS 2023</strong>.
-</div>
+  We have 1 paper (Knowledge graph matching) accepted to <strong>Proceeding of the 13th international conference on formal ontology in information systems, FOIS 2023</strong>. <br>
 
-<div style="margin-bottom: 20px;">
   <strong>2023-05</strong><br>
-  🎉 🎉 🎉 I was granted by <a href="https://ijcai-23.org/ijcai-aij-2023-travel-and-accessibility-grant-program/#:~:text=Application%20Procedure&text=Applicants%20must%20submit%20the%20IJCAI,(before%20early%20registration%20deadline)." style="color: #4f8ef7;">IJCAI-AIJ 2023 Travel and Accessibility Grant Program</a>. 
-</div>
+  🎉 🎉 🎉 I was granted by <a href="https://ijcai-23.org/ijcai-aij-2023-travel-and-accessibility-grant-program/#:~:text=Application%20Procedure&text=Applicants%20must%20submit%20the%20IJCAI,(before%20early%20registration%20deadline)." style="color: #4f8ef7;">IJCAI-AIJ 2023 Travel and Accessibility Grant Program</a>. <br>
 
-<div style="margin-bottom: 20px;">
   <strong>2023-04</strong><br>
-  We have 1 paper (Zero-shot character recognition) accepted to <strong>Proceedings of the Thirty-Second International Joint Conference on Artificial Intelligence, IJCAI 2023</strong>.
-</div>
+  We have 1 paper (Zero-shot character recognition) accepted to <strong>Proceedings of the Thirty-Second International Joint Conference on Artificial Intelligence, IJCAI 2023</strong>. <br>
 
-<div style="margin-bottom: 20px;">
   <strong>2023-02</strong><br>
-  🎉 🎉 🎉 We have 1 paper (Long-tailed visual recognition) accepted to <strong>Proceedings of the IEEE/CVF conference on computer vision and pattern recognition, CVPR 2022</strong>.
-</div>
+  🎉 🎉 🎉 We have 1 paper (Long-tailed visual recognition) accepted to <strong>Proceedings of the IEEE/CVF conference on computer vision and pattern recognition, CVPR 2022</strong>. <br>
 
-<div style="margin-bottom: 20px;">
   <strong>2022-11</strong><br>
-  We have 1 paper (Contrastive learning for argument pair identification) accepted to <strong>Conference on Empirical Methods in Natural Language Processing, EMNLP 2022</strong>.
-</div>
+  We have 1 paper (Contrastive learning for argument pair identification) accepted to <strong>Conference on Empirical Methods in Natural Language Processing, EMNLP 2022</strong>. <br>
 
-<div style="margin-bottom: 20px;">
   <strong>2022-08</strong><br>
-  🎉 🎉 🎉 I received an offer from Institute of Health Informatics (IHI), UCL.
-</div>
+  🎉 🎉 🎉 I received an offer from Institute of Health Informatics (IHI), UCL. <br>
 
-<div style="margin-bottom: 20px;">
   <strong>2022-07</strong><br>
-  🎉 🎉 🎉 We have 2 papers (Historical character image denoising & Character image classification) accepted to <strong>ACM international conference on multimedia, ACM MM 2022</strong>.
-</div>
+  🎉 🎉 🎉 We have 2 papers (Historical character image denoising & Character image classification) accepted to <strong>ACM international conference on multimedia, ACM MM 2022</strong>. <br>
 
-<div style="margin-bottom: 20px;">
   <strong>2022-06</strong><br>
-  We obtained 2 granted patents.
-</div>
+  We obtained 2 granted patents. <br>
 
-<div style="margin-bottom: 20px;">
   <strong>2022-03</strong><br>
-  We have 1 paper (Historical character classification) accepted to <strong>Association for Computational Linguistics, ACL 2022</strong>.
-</div>
+  We have 1 paper (Historical character classification) accepted to <strong>Association for Computational Linguistics, ACL 2022</strong>. <br>
 
-<div style="margin-bottom: 20px;">
   <strong>2021-09</strong><br>
-  We have 1 paper (Few-shot remote sensing scene classification) accepted to <strong>IEEE Transactions on Geoscience and Remote Sensing Journal (TGRS)</strong>.
-</div>
+  We have 1 paper (Few-shot remote sensing scene classification) accepted to <strong>IEEE Transactions on Geoscience and Remote Sensing Journal (TGRS)</strong>. <br>
 
-<div style="margin-bottom: 20px;">
   <strong>2021-07</strong><br>
   We have 1 paper (Knowledge graph matching) accepted to <strong>The 20th International Semantic Web Conference, ISWC 2021</strong>. <br>
 
   <strong>2021-06</strong><br>
-  We obtained 2 granted patents and 4 software copyrights.
-</div>
+  We obtained 2 granted patents and 4 software copyrights. <br>
 
-<div style="margin-bottom: 20px;">
   <strong>2020-02</strong><br>
-  🎉 🎉 🎉 We have 1 paper (Knowledge-based learning path recommendation) accepted to <strong>Knowledge-Based Systems Journal (KBS)</strong>.
-</div>
+  🎉 🎉 🎉 We have 1 paper (Knowledge-based learning path recommendation) accepted to <strong>Knowledge-Based Systems Journal (KBS)</strong>. <br>
 
-<div style="margin-bottom: 20px;">
   <strong>2018-09</strong><br>
-🎉 🎉 🎉 I received an offer for a research assistant position at Jilin University.
-</div>
+🎉 🎉 🎉 I received an offer for a research assistant position at Jilin University. <br>
 
-<div style="margin-bottom: 20px;">
   <strong>2018-09</strong><br>
-🎉 🎉 🎉 I finished my Master's degree from the Unievrsity of Manchester with a Distinction (top 5%).
+🎉 🎉 🎉 I finished my Master's degree from the Unievrsity of Manchester with a Distinction (top 5%). <br>
 </div>
 
 

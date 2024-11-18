@@ -9,32 +9,34 @@ author_profile: true
 
 
   
-Program Committee Member
+Conference Program Committee Member
 ======
-* CVPR (2022-), ECCV (2022-), ICCV (2023-);
-* ACM MM (2022-), ICASSP (2023-);
-* AAAI (2021-)， IJCAI (2023);
-* NeruaIPS (2023-), ICLR (2024-);
+* CVPR (2022-), ICCV (2023-), ECCV (2022-)
+* ACM MM (2022-), ICASSP (2023-)
+* AAAI (2021-), IJCAI (2023-)
+* NeruaIPS (2023-), ICLR (2024-)
 <!-- * ACL (2022-), EMNLP (2022-), NAACL (2024-), EACL (2022-) -->
 
 Journal Reviewer
 ======
-* Transactions on Information Systems
-* IEEE/ACM Transactions on Audio, Speech and Language Processing
-* Information Processing and Management
-* Journal of the Association for Information Science and Technology
-* ACM Transactions on Asian and Low-Resource Language Information Processing
-* Transactions on Intelligent Systems and Technology
+* ACM Computing Sruvey
+* IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
+* IEEE Transactions on Multimedia (TMM)
+* Knowledge-Based Systems (KBS)
+* IEEE Transactions on Geoscience and Remote Sensing (TGRS)
+* Pattern Recognition (PR)
+* Information Processing & Management (IPM)
+* BMC Medical Informatics and Decision Making
 
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
 
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+  Talks
+======
+  <ul>{% for post in site.talks reversed %}
+    {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>

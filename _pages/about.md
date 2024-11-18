@@ -176,22 +176,31 @@ We are dedicated to harnessing the power of AI to address complex scientific cha
 
 ### Current members:
 
-
-- Mingzhe Yue, 2021-present, Msc Student;
-- Mingzhe Yue, 2021-present, Msc Student;
+- Ziqing Xu, 2025-present, Msc Student;
+- Xingwei Ma, 2025-present, Msc Student;
+- Bo Peng, 2024-present, PhD Student;
+- Boyu Chen, 2024-present, PhD Student;
+- Zhihan Zhou, 2024-present, PhD Student;
+- Borite, 2024-present, Msc Student;
+- Yanling Xiao, 2024-present, Msc Student;
+- Qianqian Zhang, 2024-present, Msc Student;
+- Shuzhen Guo, 2024-present, Msc Student;
+- Ruixuan Sun, 2024-present, Msc Student;
+- Wei Cao, 2023-present, Msc Student;
+- Yuhao Han, 2023-present, Msc Student;
+- Lida Shi, 2021-present, PhD Student
+- Mingzhe Yue, 2022-present, Msc Student;
+- Hanghang Li, 2022-present, Msc Student;
+- Yixiao Sun, 2022-present, Msc Student;
+- Xiaolei Diao, 2020-present, PhD Student;
 - Yang Chi, 2019-present, PhD Student;
-
-
-- Mingzhe Yue, 2021-present, Msc Student;
-- Hanghang Li, 2021-present, Msc Student;
-- Yixiao Sun, 2021-present, Msc Student;
-
+- Rui Rong, 2019-present, Research Fellow;
 
 
 ### Former members and visitors:
 
-- Lei Wu, 2019-2021, Msc Student;
-- Yanzeng Li 2019-2021, Msc Student;
+- Lei Wu, 2020-2021, Msc Student;
+- Yanzeng Li 2020-2021, Msc Student;
 
 
 

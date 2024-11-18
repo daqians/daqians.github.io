@@ -27,7 +27,7 @@ redirect_from:
         padding-right: 10px;  /* 确保日期和描述之间有一些空隙 */
     }
     .timeline-content {
-        width: 85%;
+        width: 100%;
     }
     /* .event-highlight {
         color: #4f8ef7;

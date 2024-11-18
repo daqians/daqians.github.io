@@ -199,13 +199,17 @@ We are dedicated to harnessing the power of AI to address complex scientific cha
 
 ### Former members and visitors:
 
-- Lei Wu, 2020-2021, Msc Student;
-- Yanzeng Li 2020-2021, Msc Student;
+- Lei Wu, 2020-2023, Msc Student;
+- Yanzeng Li 2020-2023, Msc Student;
 
 
 
 Position Openings
 ------------------
+
+For prospective collaborators interested in AIGC and AI4Science, we have multiple positions available for Postdoc/Ph.D./Master/Intern researchers. We welcome applicants from diverse disciplines, including Computer Science, Medicine, Physics, Chemistry, Geography, etc. If you are interested in using AI to solve problems in your field, you are encouraged to apply. Please email me with your self-introduction, the project of interest (including the problem you are trying to solve and how you plan to solve it, being as specific as possible), your transcript, and CV. Send your application to my email. I might not be able to respond to all emails due to large volume. For Ph.D. applicants, please reach out one year prior to the application deadline. For visiting students or research interns, we welcome undergraduate and graduate students from all over the world to apply for research internships and visiting. 
+
+Our interns have published many top-tier conference/journal papers and have been admitted to Postdoc/Ph.D./Master programs in prestigious institutions such as Oxford University. 
 
 
 Funds & Projects

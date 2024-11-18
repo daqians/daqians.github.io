@@ -10,27 +10,18 @@ author_profile: true
 
 Education
 ======
-* Ph.D in the Department of Information Engineering and Computer Science, University of Trento, 2024;
-* MRes. in the Department of Computer Science & Master, University of Manchester, 2018
-* B.S. in the School of Computer Engineering and Science, Shanghai University, 2017
+* Ph.D in the Department of Information Engineering and Computer Science, University of Trento;
+* MRes. in the Department of Computer Science & Master, University of Manchester;
+* B.S. in the School of Computer Engineering and Science, Shanghai University;
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
+* 2024.6-present, Research Fellow at UCL, Institute of Health Informatics;
+* 2022.10-2023.04,  Visiting Researcher at UCL, Institute of Health Informatics;
+* 2018.11-2019.11: Research Assistant at Jilin University, School of Computer Science and Technology
 * Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
 * Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+
 Skills
 ======
 * Skill 1

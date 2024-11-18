@@ -16,7 +16,7 @@ redirect_from:
     }
     .timeline-item {
         display: flex;
-        padding: 5px 0;
+        /* padding: 5px 0; */
         align-items: flex-start;
     }
     .timeline-date {
@@ -29,6 +29,10 @@ redirect_from:
     .timeline-content {
         width: 85%;
     }
+    /* .event-highlight {
+        color: #4f8ef7;
+        font-weight: bold;
+    } */
 </style>
 
 <!-- **Daqian Shi** -->

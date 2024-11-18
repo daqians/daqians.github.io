@@ -35,7 +35,12 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-  Talks
+Social Services
+=======
+* Served as the president of the Chinese Students Association in Trento from 2019 to 2022.
+* Served as a student representative at the University of Manchester from 2017 to 2018.
+
+Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}

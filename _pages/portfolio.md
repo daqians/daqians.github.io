@@ -24,7 +24,16 @@ Work experience
 * Fall 2016: Visiting Student at University of Oxford, Oriel College;
 * Summer 2016: Intern Software Engineer at Bosch, Innovation and Software Development;
 
-
+Awards
+=======
+<!-- * Awarded the Chinese Government Scholarship for Doctoral Studies by the China Scholarship Council. -->
+<!-- * Winner of PhD scholarship awarded by the University of Trento. -->
+* Awarded International Joint Conference on Artificial Intelligence (IJCAI 2023) Travel Grant.
+* Recognized as a Distinct Master's Graduate by the University of Manchester.
+* Awarded Outstanding Undergraduate title by the Shanghai Municipal Education Commission (Top 3\%).
+* Awarded the Shanghai University Scholarship for four consecutive years during undergraduate studies.
+* Awarded Global Talent from UKVI Royal Society.
+* Awarded AI future grant from the London Government.
 
 
 <!-- Work experience

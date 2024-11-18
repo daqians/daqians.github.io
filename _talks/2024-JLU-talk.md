@@ -1,11 +1,11 @@
 ---
-title: "AI Unveils a New Paradigm in Oracle Bone Inscription Research"
+title: "Deciphering ancient oracle bone Inscriptions via Deep Vision-Language Pre-training Framework"
 collection: Invited talk
 type: "Talk"
-permalink: /talks/2023-JLU
+permalink: /talks/2024-JLU
 venue: "JLU Invited talk"
-date: 2023-09-15
-location: "Changcun, China"
+date: 2024-08-23
+location: "Changchun, China"
 ---
 
 

@@ -10,9 +10,9 @@ author_profile: true
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in the Department of Information Engineering and Computer Science, University of Trento, 2024;
+* MRes. in the Department of Computer Science & Master, University of Manchester, 2018
+* B.S. in the School of Computer Engineering and Science, Shanghai University, 2017
 
 Work experience
 ======

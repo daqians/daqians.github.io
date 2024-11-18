@@ -16,7 +16,7 @@ redirect_from:
     }
     .timeline-item {
         display: flex;
-        /* padding: 5px 0; */
+        padding: 2px 0;
         align-items: flex-start;
     }
     .timeline-date {

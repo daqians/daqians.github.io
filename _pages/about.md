@@ -240,7 +240,7 @@ News & Events
     <div class="timeline-item">
         <div class="timeline-date">2018-09</div>
         <div class="timeline-content">
-            🎉 🎉 🎉 I received an offer for a research assistant position at Jilin University.
+            I received an offer for a research assistant position at Jilin University.
         </div>
     </div>
 

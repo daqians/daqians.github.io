@@ -7,6 +7,30 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+    .timeline {
+        display: flex;
+        flex-direction: column;
+        font-family: Arial, sans-serif;
+        line-height: 1.5;
+    }
+    .timeline-item {
+        display: flex;
+        padding: 10px 0;
+        align-items: center;
+    }
+    .timeline-date {
+        width: 15%;
+        font-weight: bold;
+        color: #444;  /* 设置日期的颜色，可以根据需要调整 */
+        text-align: right;
+        padding-right: 20px;  /* 确保日期和描述之间有一些空隙 */
+    }
+    .timeline-content {
+        width: 85%;
+    }
+</style>
+
 <!-- **Daqian Shi** -->
 
 Hi, welcome to my site! Glad to have you here! 👋
@@ -36,10 +60,45 @@ Research Interests
 
 News & Events
 --------
-<div style="width: 100%; max-height: 1000px; overflow-y: auto; padding: 20px; background-color: #ffffff; color: #000; border-radius: 10px; font-family: Arial, sans-serif; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
+
+<div class="timeline">
+    <div class="timeline-item">
+        <div class="timeline-date">2024-07</div>
+        <div class="timeline-content">
+            I received offers from UCL and QMUL.
+        </div>
+    </div>
+    
+    <div class="timeline-item">
+        <div class="timeline-date">2024-06</div>
+        <div class="timeline-content">
+            We obtained 3 granted patents.
+        </div>
+    </div>
+
+    <div class="timeline-item">
+        <div class="timeline-date">2024-04</div>
+        <div class="timeline-content">
+            I received my PhD degree from the DISI, University of Trento, Italy.
+        </div>
+    </div>
+
+    <div class="timeline-item">
+        <div class="timeline-date">2024-03</div>
+        <div class="timeline-content">
+            We have 1 paper (Knowledge graph matching) accepted to 
+            <span style="font-weight: bold;">The Journal of Web Semantics (JoWS)</span>.
+        </div>
+    </div>
+</div>
+
+
+<div style="width: 100%; max-height: 500px; overflow-y: auto; padding: 20px; background-color: #ffffff; color: #000; border-radius: 10px; font-family: Arial, sans-serif; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
 
 <!-- <a href="" style="color: #4f8ef7;"> </a>-->
 <!-- <span style="display: inline-block; width: 50px;"></span> -->
+
+
 
 <div style="margin-bottom: 20px;">
   <strong>2024-10</strong> 
@@ -183,6 +242,6 @@ Our lab maintains strong collaborative relationships with several leading intern
 - UK: University of Cambridge, University of Oxford, Imperial College London, University College London, Queen Mary University of London University of Glasgow, University of Edinburgh, UCL Hospital;
 
 
-Featured Publications
----------
+<!-- Featured Publications
+--------- -->
 

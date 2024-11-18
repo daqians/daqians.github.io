@@ -23,10 +23,10 @@ Since the artifacts are stored in museums across the country and cannot be fully
 ### Course Description
 The virtual simulation experiment project can achieve the following objectives:
 
-**Skill Objectives**: Enable students to develop application and innovation abilities of AI algorithms in interdisciplinary fields, strengthen their skills in discovering, analyzing, and solving real-world problems across different domains; master knowledge organization and application skills, and understand the basic methods of constructing knowledge graphs and their application to ancient script datasets.
+* Skill Objectives: Enable students to develop application and innovation abilities of AI algorithms in interdisciplinary fields, strengthen their skills in discovering, analyzing, and solving real-world problems across different domains; master knowledge organization and application skills, and understand the basic methods of constructing knowledge graphs and their application to ancient script datasets.
 
-**Knowledge Objectives**: Master the basic knowledge of ancient scripts, understand the characteristics of related artifacts and the needs for their digital processing; grasp the basic principles of image denoising algorithms and the application of several such algorithms in ancient script images; understand the basic principles of character recognition algorithms and the application of related algorithms to ancient script images.
+* Knowledge Objectives: Master the basic knowledge of ancient scripts, understand the characteristics of related artifacts and the needs for their digital processing; grasp the basic principles of image denoising algorithms and the application of several such algorithms in ancient script images; understand the basic principles of character recognition algorithms and the application of related algorithms to ancient script images.
 
-**Attitudinal, Emotional, and Value Objectives**: Foster students' interest in learning the interdisciplinary knowledge of ancient scripts and AI, and cultivate their innovative mindset. By creating immersive scenarios, encourage practical exploration, inspire students' love for archaeological culture, and reinforce a sense of patriotism.
+* Attitudinal, Emotional, and Value Objectives: Foster students' interest in learning the interdisciplinary knowledge of ancient scripts and AI, and cultivate their innovative mindset. By creating immersive scenarios, encourage practical exploration, inspire students' love for archaeological culture, and reinforce a sense of patriotism.
 
 Please find more details from [Digital Humanities Virtual Simulation Experiment link](https://ccst.jlu.edu.cn/syzx/gjjwlwxnfzsyjxzx.htm).

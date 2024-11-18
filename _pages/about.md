@@ -176,8 +176,22 @@ We are dedicated to harnessing the power of AI to address complex scientific cha
 
 ### Current members:
 
+
+- Mingzhe Yue, 2021-present, Msc Student;
+- Mingzhe Yue, 2021-present, Msc Student;
+- Yang Chi, 2019-present, PhD Student;
+
+
+- Mingzhe Yue, 2021-present, Msc Student;
+- Hanghang Li, 2021-present, Msc Student;
+- Yixiao Sun, 2021-present, Msc Student;
+
+
+
 ### Former members and visitors:
 
+- Lei Wu, 2019-2021, Msc Student;
+- Yanzeng Li 2019-2021, Msc Student;
 
 
 
@@ -191,13 +205,13 @@ Funds & Projects
 
 ### Current Projects:
 
-- 2024-2028 [National Natural Science Foundation of China (NSFC) General Program](https://www.nsfc.gov.cn/publish/portal0/tab1417/) with overall budget ￥400k
+- 2024-2028 [National Natural Science Foundation of China (NSFC) General Program](https://www.nsfc.gov.cn/publish/portal0/tab1417/) with overall budget ￥400k, as co-investigator;
 
 
 
 ### Past Projects:
 
-- 2024-2028 [AI future](https://www.great.gov.uk/campaign-site/ai-futures/#:~:text=The%20UK%20Government's%20AI%20Futures,the%20UK's%20thriving%20AI%20ecosystem.) with an overall budget ￡8k. 
+- 2024-2028 [AI future](https://www.great.gov.uk/campaign-site/ai-futures/#:~:text=The%20UK%20Government's%20AI%20Futures,the%20UK's%20thriving%20AI%20ecosystem.) with an overall budget ￡8k, as principal investigator;
 
 International Collaborations
 ---------

@@ -37,17 +37,6 @@ Research Interests
 News & Events
 --------
 
-<div class="timeline">
-    <div class="timeline-item">
-        <div class="timeline-date">2024-10</div>
-        <div class="timeline-content">
-            We have 1 paper (Quantization on Bird's-Eye View Representation) accepted to 
-            <span class="event-highlight">WACV 2025</span> and 1 paper (Semantic Segmentation on Autonomous Vehicles Platform) 
-            accepted to <span class="event-highlight">TCAD 2024</span>.
-        </div>
-    </div>
-</div>
-
 
 <div style="width: 100%; max-height: 500px; overflow-y: auto; padding: 20px; background-color: #ffffff; color: #000; border-radius: 10px; font-family: Arial, sans-serif; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
 
@@ -55,7 +44,7 @@ News & Events
 
 <div style="margin-bottom: 20px;">
   <strong>2024-10</strong><br>
-  🎉 🎉 🎉 Our Team has won top 5 in the IEEE Region 8 Climate Challenges: <a href="https://www.ieee-ukandireland.org/ieee-region-8-climate-challenges-ai-in-enhanced-weather-forecasting-hackathon/#:~:text=We%20are%20excited%20to%20invite,of%20short%2Dterm%20weather%20forecasts." style="color: #4f8ef7;">AI in Enhanced Weather Forecasting</a>, I was invited as a speaker on the workshop. <br>
+  🎉 🎉 🎉 Our Team has won top 5 in the IEEE Region 8 Climate Challenges: <a href="https://www.ieee-ukandireland.org/ieee-region-8-climate-challenges-ai-in-enhanced-weather-forecasting-hackathon/#:~:text=We%20are%20excited%20to%20invite,of%20short%2Dterm%20weather%20forecasts." style="color: #4f8ef7;">AI in Enhanced Weather Forecasting</a>, I was invited as a speaker on the workshop. <br> <br>
 
   <strong>2024-09</strong><br>
   🎉 🎉 🎉 I was granted by <a href="https://www.great.gov.uk/campaign-site/ai-futures/#:~:text=The%20UK%20Government's%20AI%20Futures,the%20UK's%20thriving%20AI%20ecosystem." style="color: #4f8ef7;">AI Future project</a>.  <br>

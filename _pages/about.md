@@ -62,6 +62,11 @@ News & Events
 </div>
 
 <div style="margin-bottom: 20px;">
+  <strong>2024-06</strong><br>
+  We obtained 3 granted patents.
+</div>
+
+<div style="margin-bottom: 20px;">
   <strong>2024-04</strong><br>
   I received my PhD degree from the DISI, University of Trento, Italy.
 </div>
@@ -83,9 +88,8 @@ News & Events
 
 <div style="margin-bottom: 20px;">
   <strong>2023-06</strong><br>
-  We have 1 paper (Zero-shot character recognition) accepted to <strong>Proceedings of the 31th ACM International Conference on Multimedia, ACM MM 2023</strong>.
+  We have 1 paper (Zero-shot character recognition) accepted to <strong>Proceedings of the 31th ACM International Conference on Multimedia, ACM MM 2023</strong>, and we obtained 2 granted patents..
 </div>
-
 
 <div style="margin-bottom: 20px;">
   <strong>2023-06</strong><br>
@@ -123,6 +127,11 @@ News & Events
 </div>
 
 <div style="margin-bottom: 20px;">
+  <strong>2022-06</strong><br>
+  We obtained 2 granted patents.
+</div>
+
+<div style="margin-bottom: 20px;">
   <strong>2022-03</strong><br>
   We have 1 paper (Historical character classification) accepted to <strong>Association for Computational Linguistics, ACL 2022</strong>.
 </div>
@@ -136,6 +145,11 @@ News & Events
 <div style="margin-bottom: 20px;">
   <strong>2021-07</strong><br>
   We have 1 paper (Knowledge graph matching) accepted to <strong>The 20th International Semantic Web Conference, ISWC 2021</strong>.
+</div>
+
+<div style="margin-bottom: 20px;">
+  <strong>2021-06</strong><br>
+  We obtained 2 granted patents and 4 software copyrights.
 </div>
 
 <div style="margin-bottom: 20px;">

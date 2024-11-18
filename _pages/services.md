@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Services"
+title: ""
 permalink: /Services/
 author_profile: true
 ---

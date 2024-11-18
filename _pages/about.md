@@ -99,6 +99,184 @@ News & Events
 <!-- <span style="display: inline-block; width: 50px;"></span> -->
 
 
+<div class="timeline">
+    <div class="timeline-item">
+        <div class="timeline-date">2024-10</div>
+        <div class="timeline-content">
+            🎉 🎉 🎉 Our Team has won top 5 in the IEEE Region 8 Climate Challenges: <a href="https://www.ieee-ukandireland.org/ieee-region-8-climate-challenges-ai-in-enhanced-weather-forecasting-hackathon/#:~:text=We%20are%20excited%20to%20invite,of%20short%2Dterm%20weather%20forecasts." class="event-highlight">AI in Enhanced Weather Forecasting</a>, I was invited as a speaker on the workshop.
+        </div>
+    </div>
+
+    <div class="timeline-item">
+        <div class="timeline-date">2024-09</div>
+        <div class="timeline-content">
+            🎉 🎉 🎉 I was granted by <a href="https://www.great.gov.uk/campaign-site/ai-futures/#:~:text=The%20UK%20Government's%20AI%20Futures,the%20UK's%20thriving%20AI%20ecosystem." class="event-highlight">AI Future project</a>.
+        </div>
+    </div>
+
+    <div class="timeline-item">
+        <div class="timeline-date">2024-08</div>
+        <div class="timeline-content">
+            🎉 🎉 🎉 Our team was granted by <a href="https://www.nsfc.gov.cn/publish/portal0/tab1417/" class="event-highlight">National Natural Science Foundation of China (NSFC) General Program</a>, and I was granted by UKVI Royal Society as <a href="https://www.gov.uk/global-talent" class="event-highlight">Global Talent</a>.
+        </div>
+    </div>
+
+    <div class="timeline-item">
+        <div class="timeline-date">2024-07</div>
+        <div class="timeline-content">
+            I received offers from UCL and QMUL.
+        </div>
+    </div>
+
+    <div class="timeline-item">
+        <div class="timeline-date">2024-06</div>
+        <div class="timeline-content">
+            We obtained 3 granted patents.
+        </div>
+    </div>
+
+    <div class="timeline-item">
+        <div class="timeline-date">2024-04</div>
+        <div class="timeline-content">
+            I received my PhD degree from the DISI, University of Trento, Italy.
+        </div>
+    </div>
+
+    <div class="timeline-item">
+        <div class="timeline-date">2024-03</div>
+        <div class="timeline-content">
+            We have 1 paper (Knowledge graph matching) accepted to <span class="event-highlight">The Journal of Web Semantics (JoWS)</span>.
+        </div>
+    </div>
+
+    <div class="timeline-item">
+        <div class="timeline-date">2023-11</div>
+        <div class="timeline-content">
+            We have 1 paper (Radiology report summarization) accepted to <span class="event-highlight">Association for Computational Linguistics, ACL 2023</span>.
+        </div>
+    </div>
+
+    <div class="timeline-item">
+        <div class="timeline-date">2023-07</div>
+        <div class="timeline-content">
+            🎉 🎉 🎉 I was granted by <a href="https://www.acmmm2023.org/student-travel-grants/#:~:text=Students%20must%20apply%20for%20a,for%20a%20SIGMM%20travel%20award." class="event-highlight">ACM MM 2023 STUDENT TRAVEL GRANTS</a>.
+        </div>
+    </div>
+
+    <div class="timeline-item">
+        <div class="timeline-date">2023-06</div>
+        <div class="timeline-content">
+            We have 1 paper (Zero-shot character recognition) accepted to <span class="event-highlight">Proceedings of the 31th ACM International Conference on Multimedia, ACM MM 2023</span>, and we obtained 2 granted patents.
+        </div>
+    </div>
+
+    <div class="timeline-item">
+        <div class="timeline-date">2023-06</div>
+        <div class="timeline-content">
+            We have 1 paper (Knowledge graph matching) accepted to <span class="event-highlight">Proceeding of the 13th international conference on formal ontology in information systems, FOIS 2023</span>.
+        </div>
+    </div>
+
+    <div class="timeline-item">
+        <div class="timeline-date">2023-05</div>
+        <div class="timeline-content">
+            🎉 🎉 🎉 I was granted by <a href="https://ijcai-23.org/ijcai-aij-2023-travel-and-accessibility-grant-program/#:~:text=Application%20Procedure&text=Applicants%20must%20submit%20the%20IJCAI,(before%20early%20registration%20deadline)." class="event-highlight">IJCAI-AIJ 2023 Travel and Accessibility Grant Program</a>.
+        </div>
+    </div>
+
+    <div class="timeline-item">
+        <div class="timeline-date">2023-04</div>
+        <div class="timeline-content">
+            We have 1 paper (Zero-shot character recognition) accepted to <span class="event-highlight">Proceedings of the Thirty-Second International Joint Conference on Artificial Intelligence, IJCAI 2023</span>.
+        </div>
+    </div>
+
+    <div class="timeline-item">
+        <div class="timeline-date">2023-02</div>
+        <div class="timeline-content">
+            🎉 🎉 🎉 We have 1 paper (Long-tailed visual recognition) accepted to <span class="event-highlight">Proceedings of the IEEE/CVF conference on computer vision and pattern recognition, CVPR 2022</span>.
+        </div>
+    </div>
+
+    <div class="timeline-item">
+        <div class="timeline-date">2022-11</div>
+        <div class="timeline-content">
+            We have 1 paper (Contrastive learning for argument pair identification) accepted to <span class="event-highlight">Conference on Empirical Methods in Natural Language Processing, EMNLP 2022</span>.
+        </div>
+    </div>
+
+    <div class="timeline-item">
+        <div class="timeline-date">2022-08</div>
+        <div class="timeline-content">
+            🎉 🎉 🎉 I received an offer from Institute of Health Informatics (IHI), UCL.
+        </div>
+    </div>
+
+    <div class="timeline-item">
+        <div class="timeline-date">2022-07</div>
+        <div class="timeline-content">
+            🎉 🎉 🎉 We have 2 papers (Historical character image denoising & Character image classification) accepted to <span class="event-highlight">ACM international conference on multimedia, ACM MM 2022</span>.
+        </div>
+    </div>
+
+    <div class="timeline-item">
+        <div class="timeline-date">2022-06</div>
+        <div class="timeline-content">
+            We obtained 2 granted patents.
+        </div>
+    </div>
+
+    <div class="timeline-item">
+        <div class="timeline-date">2022-03</div>
+        <div class="timeline-content">
+            We have 1 paper (Historical character classification) accepted to <span class="event-highlight">Association for Computational Linguistics, ACL 2022</span>.
+        </div>
+    </div>
+
+    <div class="timeline-item">
+        <div class="timeline-date">2021-09</div>
+        <div class="timeline-content">
+            We have 1 paper (Few-shot remote sensing scene classification) accepted to <span class="event-highlight">IEEE Transactions on Geoscience and Remote Sensing Journal (TGRS)</span>.
+        </div>
+    </div>
+
+    <div class="timeline-item">
+        <div class="timeline-date">2021-07</div>
+        <div class="timeline-content">
+            We have 1 paper (Knowledge graph matching) accepted to <span class="event-highlight">The 20th International Semantic Web Conference, ISWC 2021</span>.
+        </div>
+    </div>
+
+    <div class="timeline-item">
+        <div class="timeline-date">2021-06</div>
+        <div class="timeline-content">
+            We obtained 2 granted patents and 4 software copyrights.
+        </div>
+    </div>
+
+    <div class="timeline-item">
+        <div class="timeline-date">2020-02</div>
+        <div class="timeline-content">
+            🎉 🎉 🎉 We have 1 paper (Knowledge-based learning path recommendation) accepted to <span class="event-highlight">Knowledge-Based Systems Journal (KBS)</span>.
+        </div>
+    </div>
+
+    <div class="timeline-item">
+        <div class="timeline-date">2018-09</div>
+        <div class="timeline-content">
+            🎉 🎉 🎉 I received an offer for a research assistant position at Jilin University.
+        </div>
+    </div>
+
+    <div class="timeline-item">
+        <div class="timeline-date">2018-09</div>
+        <div class="timeline-content">
+            🎉 🎉 🎉 I finished my Master's degree from the University of Manchester with a Distinction (top 5%).
+        </div>
+    </div>
+</div>
+
+
 
 <div style="margin-bottom: 20px;">
   <strong>2024-10</strong> 

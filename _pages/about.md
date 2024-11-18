@@ -38,19 +38,18 @@ News & Events
 --------
 
 
-<div style="width: 100%; max-height: 500px; overflow-y: auto; padding: 20px; background-color: #ffffff; color: #000; border-radius: 10px; font-family: Arial, sans-serif; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
+<div style="width: 100%; max-height: 1000px; overflow-y: auto; padding: 20px; background-color: #ffffff; color: #000; border-radius: 10px; font-family: Arial, sans-serif; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
 
 <!-- <a href="" style="color: #4f8ef7;"> </a>-->
 
 <div style="margin-bottom: 20px;">
-  <strong>2024-10</strong><br>
+  <strong>2024-10</strong> 
   🎉 🎉 🎉 Our Team has won top 5 in the IEEE Region 8 Climate Challenges: <a href="https://www.ieee-ukandireland.org/ieee-region-8-climate-challenges-ai-in-enhanced-weather-forecasting-hackathon/#:~:text=We%20are%20excited%20to%20invite,of%20short%2Dterm%20weather%20forecasts." style="color: #4f8ef7;">AI in Enhanced Weather Forecasting</a>, I was invited as a speaker on the workshop. <br> <br>
 
-  <strong>2024-09</strong><br>
+  <strong>2024-09</strong> <span style="display: inline-block; width: 50px;"></span>
   🎉 🎉 🎉 I was granted by <a href="https://www.great.gov.uk/campaign-site/ai-futures/#:~:text=The%20UK%20Government's%20AI%20Futures,the%20UK's%20thriving%20AI%20ecosystem." style="color: #4f8ef7;">AI Future project</a>.  <br> <br>
 
-  <strong>2024-08</strong><br>
-  🎉 🎉 🎉 Our team was granted by <a href="https://www.nsfc.gov.cn/publish/portal0/tab1417/" style="color: #4f8ef7;">National Natural Science Foundation of China (NSFC) General Program</a>, and I was granted by UKVI Royal Society as <a href="https://www.gov.uk/global-talent" style="color: #4f8ef7;">Global Talent</a>. <br> <br>
+  <strong>2024-08</strong> 🎉 🎉 🎉 Our team was granted by <a href="https://www.nsfc.gov.cn/publish/portal0/tab1417/" style="color: #4f8ef7;">National Natural Science Foundation of China (NSFC) General Program</a>, and I was granted by UKVI Royal Society as <a href="https://www.gov.uk/global-talent" style="color: #4f8ef7;">Global Talent</a>. <br> <br>
 
   <strong>2024-07</strong><br>
   I received offers from UCL and QMUL. <br> <br>
@@ -167,11 +166,9 @@ Our interns have published many top-tier conference/journal papers and have been
 Funds & Projects
 ---------
 
-
 ### Current Projects:
 
 - 2024-2028 [National Natural Science Foundation of China (NSFC) General Program](https://www.nsfc.gov.cn/publish/portal0/tab1417/) with overall budget ￥400k, as co-investigator;
-
 
 
 ### Past Projects:

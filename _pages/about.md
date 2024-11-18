@@ -279,7 +279,7 @@ We are dedicated to harnessing the power of AI to address complex scientific cha
 - Yixiao Sun, 2022-present, Msc Student;
 - Xiaolei Diao, 2020-present, PhD Student;
 - Yang Chi, 2019-present, PhD Student;
-- Rui Rong, 2019-present, Research Fellow;
+- Rui Song, 2019-present, Research Fellow;
 
 
 ### Former members and visitors:

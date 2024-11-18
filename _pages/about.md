@@ -141,13 +141,10 @@ News & Events
   We have 1 paper (Few-shot remote sensing scene classification) accepted to <strong>IEEE Transactions on Geoscience and Remote Sensing Journal (TGRS)</strong>.
 </div>
 
-
 <div style="margin-bottom: 20px;">
   <strong>2021-07</strong><br>
   We have 1 paper (Knowledge graph matching) accepted to <strong>The 20th International Semantic Web Conference, ISWC 2021</strong>.
-</div>
 
-<div style="margin-bottom: 20px;">
   <strong>2021-06</strong><br>
   We obtained 2 granted patents and 4 software copyrights.
 </div>
@@ -201,7 +198,7 @@ We are dedicated to harnessing the power of AI to address complex scientific cha
 
 - Lei Wu, 2020-2023, Msc Student;
 - Yanzeng Li 2020-2023, Msc Student;
-
+- Marco Boffo, 2018-2021, Msc Student;
 
 
 Position Openings

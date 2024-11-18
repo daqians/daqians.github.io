@@ -29,3 +29,4 @@ The virtual simulation experiment project can achieve the following objectives:
 
 **Attitudinal, Emotional, and Value Objectives**: Foster students' interest in learning the interdisciplinary knowledge of ancient scripts and AI, and cultivate their innovative mindset. By creating immersive scenarios, encourage practical exploration, inspire students' love for archaeological culture, and reinforce a sense of patriotism.
 
+Please find more details from [Digital Humanities Virtual Simulation Experiment link](https://ccst.jlu.edu.cn/syzx/gjjwlwxnfzsyjxzx.htm).

@@ -4,8 +4,8 @@ collection: Teaching assistant
 type: "Master's course"
 permalink: /teaching/2021-spring-teaching-1
 venue: "University of Trento"
-date: 2021 Fall
-# location: "City, Country"
+date: 2021-09-01
+location: "Trento, Italy"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.

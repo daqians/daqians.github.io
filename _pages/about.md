@@ -24,7 +24,7 @@ redirect_from:
         font-weight: bold;
         color: #444;  /* 设置日期的颜色，可以根据需要调整 */
         text-align: right;
-        padding-right: 20px;  /* 确保日期和描述之间有一些空隙 */
+        padding-right: 10px;  /* 确保日期和描述之间有一些空隙 */
     }
     .timeline-content {
         width: 85%;

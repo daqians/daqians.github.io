@@ -13,7 +13,7 @@ redirect_from:
         flex-direction: column;
         font-family: Arial, sans-serif;
         line-height: 1.5;
-        margin-left: -25px; /* 使用负 margin 向左移动整个时间线 */
+        margin-left: -20px; /* 使用负 margin 向左移动整个时间线 */
     }
     .timeline-item {
         display: flex;

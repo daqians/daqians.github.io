@@ -7,6 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
+<style>
 .archive-content {
     max-width: 600px; /* 控制整个内容区域的最大宽度 */
     margin: 0 auto; /* 居中对齐 */
@@ -15,6 +16,8 @@ author_profile: true
 .archive-content li {
     line-height: 1.6; /* 增加每行的行距，使文本更加整齐 */
 }
+</style>
+
 
 <div class="archive-content">
 

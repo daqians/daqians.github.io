@@ -259,7 +259,7 @@ Research Group
 ------------------
 We are dedicated to harnessing the power of AI to address complex scientific challenges. We focus on developing AI systems that are applicable across diverse scientific fields and real-world applications. Our key areas of interest include Few-shot learning, AI for Science, especially AI for Healthcare, computer vision, multi-modality learning, large language models (LLMs), and embodied AI. We believe that these advanced tools, when effectively utilized, have the potential to drive significant breakthroughs in understanding intricate systems and solving real-world problems through intelligent, adaptive, and data-driven methods.
 
-### Current members:
+<!-- ### Current members:
 
 - Ziqing Xu, 2025-present, Msc Student;
 - Xingwei Ma, 2025-present, Msc Student;
@@ -286,15 +286,15 @@ We are dedicated to harnessing the power of AI to address complex scientific cha
 
 - Lei Wu, 2020-2023, Msc Student;
 - Yanzeng Li 2020-2023, Msc Student;
-- Marco Boffo, 2018-2021, Msc Student;
+- Marco Boffo, 2018-2021, Msc Student; -->
 
 
-Position Openings
+<!-- Position Openings
 ------------------
 
 For prospective collaborators interested in AIGC and AI4Science, we have multiple positions available for Postdoc/Ph.D./Master/Intern researchers. We welcome applicants from diverse disciplines, including Computer Science, Medicine, Physics, Chemistry, Geography, etc. If you are interested in using AI to solve problems in your field, you are encouraged to apply. Please email me with your self-introduction, the project of interest (including the problem you are trying to solve and how you plan to solve it, being as specific as possible), your transcript, and CV. Send your application to my email. I might not be able to respond to all emails due to large volume. For Ph.D. applicants, please reach out one year prior to the application deadline. For visiting students or research interns, we welcome undergraduate and graduate students from all over the world to apply for research internships and visiting. 
 
-Our interns have published many top-tier conference/journal papers and have been admitted to Postdoc/Ph.D./Master programs in prestigious institutions such as Oxford University. 
+Our interns have published many top-tier conference/journal papers and have been admitted to Postdoc/Ph.D./Master programs in prestigious institutions such as Oxford University.  -->
 
 
 Funds & Projects
@@ -317,6 +317,4 @@ Our lab maintains strong collaborative relationships with several leading intern
 - UK: University of Cambridge, University of Oxford, Imperial College London, University College London, Queen Mary University of London University of Glasgow, University of Edinburgh, UCL Hospital;
 
 
-<!-- Featured Publications
---------- -->
 

@@ -14,7 +14,7 @@ Education
 * MRes. in the Department of Computer Science & Master, University of Manchester;
 * B.S. in the School of Computer Engineering and Science, Shanghai University;
 
-Work experience
+<!-- Work experience
 ======
 * 2024-present: Postdoctoral Research Associate at Queen Mary University of London,   
   Digital Environment Research Institute (DERI);
@@ -22,7 +22,7 @@ Work experience
 * 2022-2023: Visiting Researcher at UCL, Institute of Health Informatics;
 * 2018-2019: Research Assistant at Jilin University, School of Computer Science and Technology;
 * Fall 2016: Visiting Student at University of Oxford, Oriel College;
-* Summer 2016: Intern Software Engineer at Bosch, Innovation and Software Development;
+* Summer 2016: Intern Software Engineer at Bosch, Innovation and Software Development; -->
 
 Awards
 =======

@@ -33,11 +33,11 @@ author_profile: true
 - **Daqian Shi**, Xiaolei Diao, Hao Tang, Xiaomin Li, Hao Xing, Hao Xu. RCRN: Real-world Character Image Restoration Network via Skeleton Extraction. In Proceedings of the 30th ACM International Conference on Multimedia (**ACM MM**), 2022. <!-- (Core A* conference) -->
 - Yang Chi, Fausto Giunchiglia, **Daqian Shi**, Xiaolei Diao, Chuntao Li, Hao Xu. ZiNet: Linking Chinese Characters Spanning Three Thousand Years. In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (**ACL**), 2022. <!-- (Core A* conference) -->
 - Lida Shi, Fausto Giunchiglia, Rui Song, **Daqian Shi**, Tongtong Liu, XiaoLei Diao, Hao Xu. A Simple Contrastive Learning Framework for Interactive Argument Pair Identification via Argument-Context Extraction. In Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (**EMNLP**), 2022. <!-- (Core A conference) -->
-- Xiaomin Li, **Daqian Shi**, Xiaolei Diao, Hao Xu. SCL-MLNet: Boosting Few-Shot Remote Sensing Scene Classification via Self-Supervised Contrastive Learning, IEEE Transactions on Geoscience and Remote Sensing, vol. 60, pp. 1-12, 2022, Art no. 5801112. <!-- (WoS/SJR Q1 journal, IF = 8.8) -->
+- Xiaomin Li, **Daqian Shi**, Xiaolei Diao, Hao Xu. SCL-MLNet: Boosting Few-Shot Remote Sensing Scene Classification via Self-Supervised Contrastive Learning, IEEE Transactions on Geoscience and Remote Sensing (**TGRS**), vol. 60, pp. 1-12, 2022, Art no. 5801112. <!-- (WoS/SJR Q1 journal, IF = 8.8) -->
 
 ## Before 2021
 
-- **Daqian Shi**, Ting Wang, Hao Xing, Hao Xu. A learning path recommendation model based on a multidimensional knowledge graph framework for e-learning. Knowledge-Based Systems, 2020, 195: p.105618. <!-- (WoS/SJR Q1 journal, IF = 8.8, citations 200+) -->
+- **Daqian Shi**, Ting Wang, Hao Xing, Hao Xu. A learning path recommendation model based on a multidimensional knowledge graph framework for e-learning. **Knowledge-Based Systems**, 2020, 195: p.105618. <!-- (WoS/SJR Q1 journal, IF = 8.8, citations 200+) -->
 - Fausto Giunchiglia, **Daqian Shi**. Property-based Entity Type Graph Matching. The 16th International Workshop on Ontology Matching co-located with the 20th ISWC, 2021. <!-- (Core A conference) -->
 
 

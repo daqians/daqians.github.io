@@ -79,7 +79,7 @@ News & Events
         <div class="timeline-date">2024-12
         </div>
         <div class="timeline-content">
-            🎉 🎉 🎉 Our Team has won top 3 in the British Heart Foundation Data Science Centre launches first open challenge: <a href="https://bhfdatasciencecentre.org/news-and-events/open-challenge-to-explore-ai-ecg-potential/" class="event-highlight">BHF ECG AI Challenge</a>.
+            🎉 🎉 🎉 Our Team has won top 2 in the British Heart Foundation Data Science Centre launches first open challenge: <a href="https://bhfdatasciencecentre.org/news-and-events/open-challenge-to-explore-ai-ecg-potential/" class="event-highlight">BHF ECG AI Challenge</a>.
         </div>
     </div>
     

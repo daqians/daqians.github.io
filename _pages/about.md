@@ -75,6 +75,23 @@ News & Events
 <!-- <span style="display: inline-block; width: 50px;"></span> -->
 
 <div class="timeline">
+
+    <div class="timeline-item">
+        <div class="timeline-date">2025-02
+        </div>
+        <div class="timeline-content">
+            We have 1 paper (AI4Healthcare) accepted to <span class="event-highlight">Science Advances</span>.
+        </div>
+    </div>
+
+    <div class="timeline-item">
+        <div class="timeline-date">2025-01
+        </div>
+        <div class="timeline-content">
+            We have 1 paper (Machine learning optimization methods) accepted to <span class="event-highlight">IEEE Transactions on Intelligent Transportation Systems (TITS)</span>.
+        </div>
+    </div>
+
     <div class="timeline-item">
         <div class="timeline-date">2024-12
         </div>

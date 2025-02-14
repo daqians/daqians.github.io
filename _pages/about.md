@@ -55,11 +55,11 @@ Research Interests
 
 <ol style="list-style-type: none; margin-top: 10px; line-height: 1;">
   <li>(1) Machine Learning Optimization Algorithms;</li>
-  <li>(2) Deep Learning for Imbalance and Few-Shot Datasets;</li>
-  <li>(3) Multi-Modality Learning for Healthcare;</li>
-  <li>(4) Large Language Models Powered AI Agents;</li>
-  <li>(5) Knowledge-Enhanced Trusted AI;</li>
-  <li>(6) LLM-assisted Embodied AI.</li>
+  <li>(2) LLM-assisted Embodied AI;</li>
+  <li>(3) Deep Learning for Imbalance and Few-Shot Datasets;</li>
+  <li>(4) Multi-Modality Learning for Healthcare;</li>
+  <li>(5) Large Language Models Powered AI Agents;</li>
+  <li>(6) Knowledge-Enhanced Trusted AI.</li>
 </ol>
 
 

@@ -1,9 +1,9 @@
 ---
-title: "Decipher the path of Doctoral Study"
+title: "Decipher the Path of Doctoral Study"
 collection: Invited talk
 type: "Talk"
 permalink: /talks/2025-Jieqing
-venue: "JLU Invited talk"
+venue: "Outstanding young scholars society (OYSS) Invited talk"
 date: 2025-01-26
 location: "London, UK"
 ---

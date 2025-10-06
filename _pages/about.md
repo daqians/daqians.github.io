@@ -80,9 +80,7 @@ News & Events
         <div class="timeline-date">2025-10
         </div>
         <div class="timeline-content">
-            🎉 🎉 🎉 I was granted by <span class="event-highlight"><a href="https://www.ucl.ac.uk/teaching-learning/professional-development/arena-fellowship" class="event-highlight">Arena Fellowship with Associate Fellowship</a> (UKPSF Descriptor 1)</span>.
-
-            
+            🎉 🎉 🎉 I was granted by <span class="event-highlight"><a href="https://www.ucl.ac.uk/teaching-learning/professional-development/arena-fellowship" class="event-highlight">Arena Fellowship</a> with Associate Fellowship (UKPSF Descriptor 1)</span>.           
         </div>
     </div>
 
@@ -90,7 +88,7 @@ News & Events
         <div class="timeline-date">2025-10
         </div>
         <div class="timeline-content">
-            We have 1 paper (Hyperlocal Weather Forecasting by Machine Learning) accepted to <span class="event-highlight">IEEE Transactions on Geoscience and Remote Sensing</span>.
+            We have 1 paper (AI4Science) accepted to <span class="event-highlight">IEEE Transactions on Geoscience and Remote Sensing</span>.
         </div>
     </div>
 
@@ -98,7 +96,7 @@ News & Events
         <div class="timeline-date">2025-08
         </div>
         <div class="timeline-content">
-            We have 1 paper (Competitive Distillation: A Simple Learning Strategy for Improving Visual Classification) accepted to <span class="event-highlight">International Conference on Computer Vision (ICCV 2025)</span>.
+            We have 1 paper (Machine Learning Optimization) accepted to <span class="event-highlight">International Conference on Computer Vision (ICCV 2025)</span>.
         </div>
     </div>
 
@@ -106,7 +104,7 @@ News & Events
         <div class="timeline-date">2025-07
         </div>
         <div class="timeline-content">
-            We have 1 paper (Graph-based LLM over Semi-Structured Population Data) accepted to <span class="event-highlight">Efficient Medical AI Workshop in MICCAI (EMA4MICCAI)</span>.
+            We have 1 paper (LLMs/Agent) accepted to <span class="event-highlight">Efficient Medical AI Workshop in MICCAI (EMA4MICCAI)</span>.
         </div>
     </div>
     
@@ -122,7 +120,7 @@ News & Events
         <div class="timeline-date">2025-06
         </div>
         <div class="timeline-content">
-            We have 1 paper (Minuscule Cell Detection in AS-OCT Images) accepted to <span class="event-highlight">International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI 2025)</span>.
+            We have 1 paper (AI4Healthcare) accepted to <span class="event-highlight">International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI 2025)</span>.
         </div>
     </div>
 
@@ -130,7 +128,7 @@ News & Events
         <div class="timeline-date">2025-06
         </div>
         <div class="timeline-content">
-            We have 1 paper (Learn From the Best: A Universal Self-Distillation Approach) accepted to <span class="event-highlight">Expert Systems With Applications</span>.
+            We have 1 paper (Machine Learning Optimization) accepted to <span class="event-highlight">Expert Systems With Applications</span>.
         </div>
     </div>
 
@@ -140,7 +138,7 @@ News & Events
         <div class="timeline-date">2025-05
         </div>
         <div class="timeline-content">
-            We have 1 paper (LLMs via in-context learning for stance classification) accepted to <span class="event-highlight">Information Processing and Management</span>.
+            We have 1 paper (LLMs/Agent) accepted to <span class="event-highlight">Information Processing and Management</span>.
         </div>
     </div>
 
@@ -148,7 +146,7 @@ News & Events
         <div class="timeline-date">2025-04
         </div>
         <div class="timeline-content">
-            We have 1 paper (Human Feedback in Public Health Events) accepted to <span class="event-highlight">HealTAC 2025: 8th Healthcare Text Analytics Conference</span>.
+            We have 1 paper (AI4Healthcare) accepted to <span class="event-highlight">HealTAC 2025: 8th Healthcare Text Analytics Conference</span>.
         </div>
     </div>
 
@@ -156,7 +154,7 @@ News & Events
         <div class="timeline-date">2025-03
         </div>
         <div class="timeline-content">
-            We have 2 papers (Ancient Character Detection & Oracle Bone Inscription Image Restoration) accepted to <span class="event-highlight">npj Heritage Science</span>.
+            We have 2 papers (AI4Science) accepted to <span class="event-highlight">npj Heritage Science</span>.
         </div>
     </div>
     
@@ -172,7 +170,7 @@ News & Events
         <div class="timeline-date">2025-01
         </div>
         <div class="timeline-content">
-            We have 1 paper (Machine learning optimization methods) accepted to <span class="event-highlight">IEEE Transactions on Intelligent Transportation Systems (TITS)</span>.
+            We have 1 paper (Machine learning optimization) accepted to <span class="event-highlight">IEEE Transactions on Intelligent Transportation Systems (TITS)</span>.
         </div>
     </div>
 
@@ -237,7 +235,7 @@ News & Events
     <div class="timeline-item">
         <div class="timeline-date">2023-11</div>
         <div class="timeline-content">
-            We have 1 paper (Radiology report summarization) accepted to <span class="event-highlight">Association for Computational Linguistics, ACL 2023</span>.
+            We have 1 paper (AI4Healthcare) accepted to <span class="event-highlight">Association for Computational Linguistics, ACL 2023</span>.
         </div>
     </div>
 
@@ -251,7 +249,7 @@ News & Events
     <div class="timeline-item">
         <div class="timeline-date">2023-06</div>
         <div class="timeline-content">
-            We have 1 paper (Zero-shot character recognition) accepted to <span class="event-highlight">Proceedings of the 31th ACM International Conference on Multimedia, ACM MM 2023</span>, and we obtained 2 granted patents.
+            We have 1 paper (AI4Science) accepted to <span class="event-highlight">Proceedings of the 31th ACM International Conference on Multimedia, ACM MM 2023</span>, and we obtained 2 granted patents.
         </div>
     </div>
 
@@ -272,21 +270,21 @@ News & Events
     <div class="timeline-item">
         <div class="timeline-date">2023-04</div>
         <div class="timeline-content">
-            We have 1 paper (Zero-shot character recognition) accepted to <span class="event-highlight">Proceedings of the Thirty-Second International Joint Conference on Artificial Intelligence, IJCAI 2023</span>.
+            We have 1 paper (Machine Learning Optimization) accepted to <span class="event-highlight">Proceedings of the Thirty-Second International Joint Conference on Artificial Intelligence, IJCAI 2023</span>.
         </div>
     </div>
 
     <div class="timeline-item">
         <div class="timeline-date">2023-02</div>
         <div class="timeline-content">
-            🎉 🎉 🎉 We have 1 paper (Long-tailed visual recognition) accepted to <span class="event-highlight">Proceedings of the IEEE/CVF conference on computer vision and pattern recognition, CVPR 2022</span>.
+            🎉 🎉 🎉 We have 1 paper (Machine Learning Optimization) accepted to <span class="event-highlight">Proceedings of the IEEE/CVF conference on computer vision and pattern recognition, CVPR 2022</span>.
         </div>
     </div>
 
     <div class="timeline-item">
         <div class="timeline-date">2022-11</div>
         <div class="timeline-content">
-            We have 1 paper (Contrastive learning for argument pair identification) accepted to <span class="event-highlight">Conference on Empirical Methods in Natural Language Processing, EMNLP 2022</span>.
+            We have 1 paper (Machine Learning Optimization) accepted to <span class="event-highlight">Conference on Empirical Methods in Natural Language Processing, EMNLP 2022</span>.
         </div>
     </div>
 
@@ -300,7 +298,7 @@ News & Events
     <div class="timeline-item">
         <div class="timeline-date">2022-07</div>
         <div class="timeline-content">
-            🎉 🎉 🎉 We have 2 papers (Historical character image denoising & Character image classification) accepted to <span class="event-highlight">ACM international conference on multimedia, ACM MM 2022</span>.
+            🎉 🎉 🎉 We have 2 papers (Machine Learning Optimization) accepted to <span class="event-highlight">ACM international conference on multimedia, ACM MM 2022</span>.
         </div>
     </div>
 
@@ -314,14 +312,14 @@ News & Events
     <div class="timeline-item">
         <div class="timeline-date">2022-03</div>
         <div class="timeline-content">
-            We have 1 paper (Historical character classification) accepted to <span class="event-highlight">Association for Computational Linguistics, ACL 2022</span>.
+            We have 1 paper (AI4Science) accepted to <span class="event-highlight">Association for Computational Linguistics, ACL 2022</span>.
         </div>
     </div>
 
     <div class="timeline-item">
         <div class="timeline-date">2021-09</div>
         <div class="timeline-content">
-            We have 1 paper (Few-shot remote sensing scene classification) accepted to <span class="event-highlight">IEEE Transactions on Geoscience and Remote Sensing Journal (TGRS)</span>.
+            We have 1 paper (Machine Learning Optimization) accepted to <span class="event-highlight">IEEE Transactions on Geoscience and Remote Sensing Journal (TGRS)</span>.
         </div>
     </div>
 

@@ -93,6 +93,62 @@ News & Events
     </div>
 
     <div class="timeline-item">
+        <div class="timeline-date">2025-01
+        </div>
+        <div class="timeline-content">
+            We have 1 paper (Minuscule Cell Detection in AS-OCT Images) accepted to <span class="event-highlight">International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)</span>.
+        </div>
+    </div>
+
+    <div class="timeline-item">
+        <div class="timeline-date">2025-01
+        </div>
+        <div class="timeline-content">
+            We have 1 paper (LLMs via in-context learning for stance classification) accepted to <span class="event-highlight">Information Processing and Management</span>.
+        </div>
+    </div>
+
+    <div class="timeline-item">
+        <div class="timeline-date">2025-01
+        </div>
+        <div class="timeline-content">
+            We have 1 paper (Graph-based LLM over Semi-Structured Population Data) accepted to <span class="event-highlight">Efficient Medical AI Workshop in MICCAI (EMA4MICCAI)</span>.
+        </div>
+    </div>
+
+    <div class="timeline-item">
+        <div class="timeline-date">2025-01
+        </div>
+        <div class="timeline-content">
+            We have 1 paper (Human Feedback in Public Health Events) accepted to <span class="event-highlight">HealTAC 2025: 8th Healthcare Text Analytics Conference</span>.
+        </div>
+    </div>
+
+    <div class="timeline-item">
+        <div class="timeline-date">2025-01
+        </div>
+        <div class="timeline-content">
+            We have 1 paper (Learn From the Best: A Universal Self-Distillation Approach) accepted to <span class="event-highlight">Expert Systems With Applications</span>.
+        </div>
+    </div>
+
+    <div class="timeline-item">
+        <div class="timeline-date">2025-01
+        </div>
+        <div class="timeline-content">
+            We have 2 papers (Ancient Character Detection & Oracle Bone Inscription Image Restoration) accepted to <span class="event-highlight">npj Heritage Science</span>.
+        </div>
+    </div>
+
+    <div class="timeline-item">
+        <div class="timeline-date">2025-01
+        </div>
+        <div class="timeline-content">
+            We have 1 paper (Hyperlocal Weather Forecasting by Machine Learning) accepted to <span class="event-highlight">IEEE Transactions on Geoscience and Remote Sensing</span>.
+        </div>
+    </div>
+
+    <div class="timeline-item">
         <div class="timeline-date">2024-12
         </div>
         <div class="timeline-content">

@@ -421,9 +421,11 @@ Funds & Projects
 International Collaborations
 ---------
 Our lab maintains strong collaborative relationships with several leading international research institutions, including:
-- China: Beijing University, Shanghai Jiao Tong University, Tongji University, Hongkong University, Jilin University, The Second Norman Bethune Hospital of Jilin University, The Third Norman Bethune Hospital of Jilin University, Shanghai Sixth People's Hospital Affiliated to Shanghai Jiaotong University, Ruijin Hospital Shanghai Jiaotong University School Of Medicine, Shanghai East Hospital of Tongji University, Chongqing Medical University;
+- China: Beijing University, Tsinghua University, Shanghai Jiao Tong University, Tongji University, Hongkong University, Jilin University, The Second Norman Bethune Hospital of Jilin University, Shanghai Sixth People's Hospital Affiliated to Shanghai Jiaotong University, Ruijin Hospital Shanghai Jiaotong University School Of Medicine, Shanghai East Hospital of Tongji University;
+- US: University of Illinois Urbana-Champaign, florida international university;
+- UK: University of Cambridge, University of Oxford, Imperial College London, University College London, Queen Mary University of London University of Glasgow, Kings College London, University of Edinburgh, UCL Hospital, Royal Free Hospital;
 - Italy: University of Trento;
-- UK: University of Cambridge, University of Oxford, Imperial College London, University College London, Queen Mary University of London University of Glasgow, University of Edinburgh, UCL Hospital;
+
 
 
 

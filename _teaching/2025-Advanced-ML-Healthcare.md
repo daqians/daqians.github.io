@@ -20,7 +20,7 @@ This advanced course aims to:
 - Develop skills in handling complex, multi-modal healthcare datasets
 - Foster innovation in healthcare AI research and development
 
-### Key Topics Covered
+<!-- ### Key Topics Covered
 
 - **Deep Learning in Medical Imaging**: CNNs, U-Net, attention mechanisms
 - **Natural Language Processing for Clinical Text**: BERT, GPT applications in healthcare
@@ -36,7 +36,7 @@ This advanced course aims to:
 - **Research-Oriented Projects**: Focus on novel healthcare AI problems
 - **Industry Partnerships**: Real-world case studies and guest lectures
 - **Hands-on Implementation**: Advanced coding assignments and projects
-- **Cross-Institutional Seminars**: Shared expertise from both universities
+- **Cross-Institutional Seminars**: Shared expertise from both universities -->
 
 ### Student Outcomes
 

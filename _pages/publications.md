@@ -16,20 +16,20 @@ author_profile: true
 ## 2025
 
 - **Daqian Shi**, Chen X, John C, et al. Competitive Distillation: A Simple Learning Strategy for Improving Visual Classification. *International Conference on Computer Vision (ICCV)*, 2025. <!-- (Core A* conference) -->
-- Chen B, Solebo A, **Daqian Shi**, et al. [Minuscule Cell Detection in AS-OCT Images with Progressive Field-of-View Focusing.](https://papers.miccai.org/miccai-2025/paper/2758_paper.pdf) *International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)*, 2025. <!-- (Core A conference) -->
+- Chen B, Solebo A, **Daqian Shi***, et al. [Minuscule Cell Detection in AS-OCT Images with Progressive Field-of-View Focusing.](https://papers.miccai.org/miccai-2025/paper/2758_paper.pdf) *International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)*, 2025. <!-- (Core A conference) -->
 - Chang J, Maltby T, **Daqian Shi**, Song W. [AI-assisted Piezoelectric Nanofibers Artificial Hearing System.](https://www.science.org/doi/10.1126/sciadv.adl2741) *Science Advances*, 2025. <!-- (WoS/SJR Q1 journal, IF = 15.1) -->
 - Shi L, **Daqian Shi**, et al. [An empirical study of LLMs via in-context learning for stance classification.](https://www.sciencedirect.com/science/article/pii/S0306457325002638) *Information Processing and Management*, 2025. <!-- (WoS/SJR Q1 journal, IF = 8.0) -->
 - **Daqian Shi**, Bondaronek P. Graph-based LLM over Semi-Structured Population Data for Dynamic Policy Response. *Efficient Medical AI Workshop in International Conference on Medical Image Computing and Computer-Assisted Intervention (EMA4MICCAI)*, 2025. <!-- (Core A conference) -->
-- **Daqian Shi**, Diao X, Sun Y, Bondaronek P. Human Feedback in Public Health Events: In-Depth Insights from Semi-structured Population Data. *HealTAC 2025: 8th Healthcare Text Analytics Conference*, 2025.
 - Shi L, **Daqian Shi**, et al. [Learn From the Best: A Universal Self-Distillation Approach with Historical Logits.](https://www.sciencedirect.com/science/article/abs/pii/S0957417425029550) *Expert Systems With Applications*, 2025. <!-- (WoS/SJR Q1 journal, IF = 7.5) -->
-- Yue M, **Daqian Shi**, Xu H. [Ancient Character Detection Based on Fine-grained Density Map.](https://www.nature.com/articles/s40494-025-01791-y) *npj Heritage Science*, 2025. <!-- (WoS/SJR Q1 journal, IF = 2.6) -->
-- Diao X, Cao W, **Daqian Shi**. [Oracle Bone Inscription Image Restoration via Glyph Extraction.](https://www.nature.com/articles/s40494-025-01795-8) *npj Heritage Science*, 2025. <!-- (WoS/SJR Q1 journal, IF = 2.6) -->
+- Yue M, **Daqian Shi***, Xu H. [Ancient Character Detection Based on Fine-grained Density Map.](https://www.nature.com/articles/s40494-025-01791-y) *npj Heritage Science*, 2025. <!-- (WoS/SJR Q1 journal, IF = 2.6) -->
 - Hrvoje N, **Daqian Shi**, et al. Hyperlocal Weather Forecasting by Machine Learning. *IEEE Transactions on Geoscience and Remote Sensing*, 2025. <!-- (WoS/SJR Q1 journal, IF = 8.8) -->
 
 ## 2024
-
 - **Daqian Shi**, Xiaoyue Li, Fausto Giunchiglia. [KAE: A Property-based Method for Knowledge Graph Alignment and Extension.](https://www.sciencedirect.com/science/article/pii/S1570826824000180) *Journal of Web Semantics*, 2024. <!-- (accepted, WoS/SJR Q2 journal) -->
-- Wang T, Zhao S, **Daqian Shi**. [A Task-Oriented Spatial Graph Structure Learning Method for Traffic Forecasting.](https://ieeexplore.ieee.org/document/10887397) *IEEE Transactions on Intelligent Transportation Systems*, 2024. <!-- (WoS/SJR Q1 journal, IF = 8.5) -->
+- **Daqian Shi**, Diao X, Sun Y, Bondaronek P. Human Feedback in Public Health Events: In-Depth Insights from Semi-structured Population Data. *HealTAC 2025: 8th Healthcare Text Analytics Conference*, 2024.
+- Diao X, Cao W, **Daqian Shi***. [Oracle Bone Inscription Image Restoration via Glyph Extraction.](https://www.nature.com/articles/s40494-025-01795-8) *npj Heritage Science*, 2024. <!-- (WoS/SJR Q1 journal, IF = 2.6) -->
+- Wang T, Zhao S, **Daqian Shi***. [A Task-Oriented Spatial Graph Structure Learning Method for Traffic Forecasting.](https://ieeexplore.ieee.org/document/10887397) *IEEE Transactions on Intelligent Transportation Systems*, 2024. <!-- (WoS/SJR Q1 journal, IF = 8.5) -->
+
 
 ## 2023
 

@@ -52,7 +52,7 @@ author_profile: true
 ## Before 2021
 
 - **Daqian Shi**, Ting Wang, Hao Xing, Hao Xu. [A learning path recommendation model based on a multidimensional knowledge graph framework for e-learning.](https://www.sciencedirect.com/science/article/abs/pii/S095070512030085X) **Knowledge-Based Systems**, 2020, 195: p.105618. <!-- (WoS/SJR Q1 journal, IF = 8.8, citations 200+) -->
-- Fausto Giunchiglia, **Daqian Shi**. Property-based Entity Type Graph Matching. The 16th International Workshop on Ontology Matching co-located with the 20th ISWC, 2021. <!-- (Core A conference) -->
+- Fausto Giunchiglia, **Daqian Shi**. [Property-based Entity Type Graph Matching](https://arxiv.org/abs/2109.09140). The 16th International Workshop on Ontology Matching co-located with the 20th ISWC, 2021. <!-- (Core A conference) -->
 
 
 

@@ -12,7 +12,7 @@ author_profile: true
 Conference Program Committee Member
 ======
 * CVPR (2022-), ICCV (2023,2025), ECCV (2022,2024)
-* ACM MM (2022-), ICASSP (2023-)
+* ACM MM (2022-), ICASSP (2023-)，BMVC (2025)
 * AAAI (2021-), IJCAI (2023-)
 * NeruaIPS (2023-), ICML (2023-), ICLR (2024-)
 * ACL (2024-)

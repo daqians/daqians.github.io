@@ -35,6 +35,11 @@ Awards
 * Awarded Global Talent from UKVI Royal Society.
 * Awarded AI future grant from the London Government.
 
+Research Services
+======
+* Served as the **Chair** of the 1st International Workshop on Artificial Intelligence for Real-world Challenges (AI4IRWC 2025).
+* Served as a **co-Chair** of the tutorial with UKHSA in Qualitative research and AI training 2025.
+* Served as a **guest editor** for the Computational Mathematics in Modern Medicine special issue of Applied and Computational Mathematics journal.
 
 <!-- Work experience
 ======

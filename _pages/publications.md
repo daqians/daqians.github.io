@@ -28,7 +28,7 @@ author_profile: true
 - **Daqian Shi**, Xiaoyue Li, Fausto Giunchiglia. [KAE: A Property-based Method for Knowledge Graph Alignment and Extension.](https://www.sciencedirect.com/science/article/pii/S1570826824000180) *Journal of Web Semantics*, 2024. <!-- (accepted, WoS/SJR Q2 journal) -->
 - **Daqian Shi**, Diao X, Sun Y, Bondaronek P. Human Feedback in Public Health Events: In-Depth Insights from Semi-structured Population Data. *HealTAC 2025: 8th Healthcare Text Analytics Conference*, 2024.
 - Diao X, Cao W, **Daqian Shi***. [Oracle Bone Inscription Image Restoration via Glyph Extraction.](https://www.nature.com/articles/s40494-025-01795-8) *npj Heritage Science*, 2024. <!-- (WoS/SJR Q1 journal, IF = 2.6) -->
-- Wang T, Zhao S, **Daqian Shi***. [A Task-Oriented Spatial Graph Structure Learning Method for Traffic Forecasting.](https://ieeexplore.ieee.org/document/10887397) *IEEE Transactions on Intelligent Transportation Systems*, 2024. <!-- (WoS/SJR Q1 journal, IF = 8.5) -->
+- Wang T, Zhao S, **Daqian Shi\***. [A Task-Oriented Spatial Graph Structure Learning Method for Traffic Forecasting.](https://ieeexplore.ieee.org/document/10887397) *IEEE Transactions on Intelligent Transportation Systems*, 2024. <!-- (WoS/SJR Q1 journal, IF = 8.5) -->
 
 
 ## 2023

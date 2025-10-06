@@ -28,10 +28,10 @@ Awards
 =======
 <!-- * Awarded the Chinese Government Scholarship for Doctoral Studies by the China Scholarship Council. -->
 <!-- * Winner of PhD scholarship awarded by the University of Trento. -->
-* Awarded the **"Guangchen Cup" Entrepreneurship Competition 2025** at Imperial College London.
-* Granted by **Arena Fellowship with Associate Fellowship** (UKPSF Descriptor 1).
-* Won **top 1** in the **IEEE Region 8 Climate Challenges: AI in Enhanced Weather Forecasting** (2024).
-* Won **top 2** in the **British Heart Foundation Data Science Centre BHF ECG AI Challenge** (2024).
+* Awarded the "Guangchen Cup" Entrepreneurship Competition 2025 at Imperial College London.
+* Granted by Arena Fellowship with Associate Fellowship (UKPSF Descriptor 1).
+* Won top 1 in the IEEE Region 8 Climate Challenges: AI in Enhanced Weather Forecasting (2024).
+* Won top 2 in the British Heart Foundation Data Science Centre BHF ECG AI Challenge (2024).
 * Awarded International Joint Conference on Artificial Intelligence (IJCAI 2023) Travel Grant.
 * Recognized as a Distinct Master's Graduate by the University of Manchester.
 * Awarded Outstanding Undergraduate title by the Shanghai Municipal Education Commission (Top 3\%).

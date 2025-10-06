@@ -15,6 +15,7 @@ author_profile: true
 
 ## 2025
 
+- **Daqian Shi**, Chen X, John C, et al. Competitive Distillation: A Simple Learning Strategy for Improving Visual Classification. *International Conference on Computer Vision (ICCV)*, 2025. <!-- (Core A* conference) -->
 - Chen B, Solebo A, **Daqian Shi**, et al. [Minuscule Cell Detection in AS-OCT Images with Progressive Field-of-View Focusing.](https://papers.miccai.org/miccai-2025/paper/2758_paper.pdf) *International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)*, 2025. <!-- (Core A conference) -->
 - Chang J, Maltby T, **Daqian Shi**, Song W. [AI-assisted Piezoelectric Nanofibers Artificial Hearing System.](https://www.science.org/doi/10.1126/sciadv.adl2741) *Science Advances*, 2025. <!-- (WoS/SJR Q1 journal, IF = 15.1) -->
 - Shi L, **Daqian Shi**, et al. [An empirical study of LLMs via in-context learning for stance classification.](https://www.sciencedirect.com/science/article/pii/S0306457325002638) *Information Processing and Management*, 2025. <!-- (WoS/SJR Q1 journal, IF = 8.0) -->

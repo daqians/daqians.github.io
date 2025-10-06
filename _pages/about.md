@@ -77,6 +77,72 @@ News & Events
 <div class="timeline">
 
     <div class="timeline-item">
+        <div class="timeline-date">2025-10
+        </div>
+        <div class="timeline-content">
+            We have 1 paper (Hyperlocal Weather Forecasting by Machine Learning) accepted to <span class="event-highlight">IEEE Transactions on Geoscience and Remote Sensing</span>.
+        </div>
+    </div>
+
+    <div class="timeline-item">
+        <div class="timeline-date">2025-07
+        </div>
+        <div class="timeline-content">
+            We have 1 paper (Competitive Distillation: A Simple Learning Strategy for Improving Visual Classification) accepted to <span class="event-highlight">International Conference on Computer Vision (ICCV)</span>.
+        </div>
+    </div>
+
+    <div class="timeline-item">
+        <div class="timeline-date">2025-07
+        </div>
+        <div class="timeline-content">
+            We have 1 paper (Graph-based LLM over Semi-Structured Population Data) accepted to <span class="event-highlight">Efficient Medical AI Workshop in MICCAI (EMA4MICCAI)</span>.
+        </div>
+    </div>
+    
+    <div class="timeline-item">
+        <div class="timeline-date">2025-06
+        </div>
+        <div class="timeline-content">
+            We have 1 paper (Minuscule Cell Detection in AS-OCT Images) accepted to <span class="event-highlight">International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)</span>.
+        </div>
+    </div>
+
+    <div class="timeline-item">
+        <div class="timeline-date">2025-06
+        </div>
+        <div class="timeline-content">
+            We have 1 paper (Learn From the Best: A Universal Self-Distillation Approach) accepted to <span class="event-highlight">Expert Systems With Applications</span>.
+        </div>
+    </div>
+
+
+
+    <div class="timeline-item">
+        <div class="timeline-date">2025-05
+        </div>
+        <div class="timeline-content">
+            We have 1 paper (LLMs via in-context learning for stance classification) accepted to <span class="event-highlight">Information Processing and Management</span>.
+        </div>
+    </div>
+
+    <div class="timeline-item">
+        <div class="timeline-date">2025-04
+        </div>
+        <div class="timeline-content">
+            We have 1 paper (Human Feedback in Public Health Events) accepted to <span class="event-highlight">HealTAC 2025: 8th Healthcare Text Analytics Conference</span>.
+        </div>
+    </div>
+
+    <div class="timeline-item">
+        <div class="timeline-date">2025-03
+        </div>
+        <div class="timeline-content">
+            We have 2 papers (Ancient Character Detection & Oracle Bone Inscription Image Restoration) accepted to <span class="event-highlight">npj Heritage Science</span>.
+        </div>
+    </div>
+    
+    <div class="timeline-item">
         <div class="timeline-date">2025-02
         </div>
         <div class="timeline-content">
@@ -93,62 +159,6 @@ News & Events
     </div>
 
     <div class="timeline-item">
-        <div class="timeline-date">2025-01
-        </div>
-        <div class="timeline-content">
-            We have 1 paper (Minuscule Cell Detection in AS-OCT Images) accepted to <span class="event-highlight">International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)</span>.
-        </div>
-    </div>
-
-    <div class="timeline-item">
-        <div class="timeline-date">2025-01
-        </div>
-        <div class="timeline-content">
-            We have 1 paper (LLMs via in-context learning for stance classification) accepted to <span class="event-highlight">Information Processing and Management</span>.
-        </div>
-    </div>
-
-    <div class="timeline-item">
-        <div class="timeline-date">2025-01
-        </div>
-        <div class="timeline-content">
-            We have 1 paper (Graph-based LLM over Semi-Structured Population Data) accepted to <span class="event-highlight">Efficient Medical AI Workshop in MICCAI (EMA4MICCAI)</span>.
-        </div>
-    </div>
-
-    <div class="timeline-item">
-        <div class="timeline-date">2025-01
-        </div>
-        <div class="timeline-content">
-            We have 1 paper (Human Feedback in Public Health Events) accepted to <span class="event-highlight">HealTAC 2025: 8th Healthcare Text Analytics Conference</span>.
-        </div>
-    </div>
-
-    <div class="timeline-item">
-        <div class="timeline-date">2025-01
-        </div>
-        <div class="timeline-content">
-            We have 1 paper (Learn From the Best: A Universal Self-Distillation Approach) accepted to <span class="event-highlight">Expert Systems With Applications</span>.
-        </div>
-    </div>
-
-    <div class="timeline-item">
-        <div class="timeline-date">2025-01
-        </div>
-        <div class="timeline-content">
-            We have 2 papers (Ancient Character Detection & Oracle Bone Inscription Image Restoration) accepted to <span class="event-highlight">npj Heritage Science</span>.
-        </div>
-    </div>
-
-    <div class="timeline-item">
-        <div class="timeline-date">2025-01
-        </div>
-        <div class="timeline-content">
-            We have 1 paper (Hyperlocal Weather Forecasting by Machine Learning) accepted to <span class="event-highlight">IEEE Transactions on Geoscience and Remote Sensing</span>.
-        </div>
-    </div>
-
-    <div class="timeline-item">
         <div class="timeline-date">2024-12
         </div>
         <div class="timeline-content">
@@ -160,7 +170,7 @@ News & Events
         <div class="timeline-date">2024-10
         </div>
         <div class="timeline-content">
-            🎉 🎉 🎉 Our Team has won top 5 in the IEEE Region 8 Climate Challenges: <a href="https://www.ieee-ukandireland.org/ieee-region-8-climate-challenges-ai-in-enhanced-weather-forecasting-hackathon/#:~:text=We%20are%20excited%20to%20invite,of%20short%2Dterm%20weather%20forecasts." class="event-highlight">AI in Enhanced Weather Forecasting</a>, I was invited as a speaker on the workshop.
+            🎉 🎉 🎉 Our Team has won top 1 in the IEEE Region 8 Climate Challenges: <a href="https://www.ieee-ukandireland.org/ieee-region-8-climate-challenges-ai-in-enhanced-weather-forecasting-hackathon/#:~:text=We%20are%20excited%20to%20invite,of%20short%2Dterm%20weather%20forecasts." class="event-highlight">AI in Enhanced Weather Forecasting</a>, I was invited as a speaker on the workshop.
         </div>
     </div>
 

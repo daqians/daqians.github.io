@@ -80,7 +80,9 @@ News & Events
         <div class="timeline-date">2025-10
         </div>
         <div class="timeline-content">
-            🎉 🎉 🎉 I was granted by <span class="event-highlight">[Arena Fellowship with Associate Fellowship](https://www.ucl.ac.uk/teaching-learning/professional-development/arena-fellowship) (UKPSF Descriptor 1)</span>.
+            🎉 🎉 🎉 I was granted by <span class="event-highlight"><a href="https://www.ucl.ac.uk/teaching-learning/professional-development/arena-fellowship" class="event-highlight">Arena Fellowship with Associate Fellowship</a> (UKPSF Descriptor 1)</span>.
+
+            
         </div>
     </div>
 

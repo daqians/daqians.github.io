@@ -80,7 +80,7 @@ News & Events
         <div class="timeline-date">2025-10
         </div>
         <div class="timeline-content">
-            🎉 🎉 🎉 I was granted by <span class="event-highlight">Arena Fellowship with Associate Fellowship (UKPSF Descriptor 1)</span>.
+            🎉 🎉 🎉 I was granted by <span class="event-highlight">[Arena Fellowship with Associate Fellowship](https://www.ucl.ac.uk/teaching-learning/professional-development/arena-fellowship) (UKPSF Descriptor 1)</span>.
         </div>
     </div>
 
@@ -93,10 +93,10 @@ News & Events
     </div>
 
     <div class="timeline-item">
-        <div class="timeline-date">2025-07
+        <div class="timeline-date">2025-08
         </div>
         <div class="timeline-content">
-            We have 1 paper (Competitive Distillation: A Simple Learning Strategy for Improving Visual Classification) accepted to <span class="event-highlight">International Conference on Computer Vision (ICCV)</span>.
+            We have 1 paper (Competitive Distillation: A Simple Learning Strategy for Improving Visual Classification) accepted to <span class="event-highlight">International Conference on Computer Vision (ICCV 2025)</span>.
         </div>
     </div>
 
@@ -120,7 +120,7 @@ News & Events
         <div class="timeline-date">2025-06
         </div>
         <div class="timeline-content">
-            We have 1 paper (Minuscule Cell Detection in AS-OCT Images) accepted to <span class="event-highlight">International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)</span>.
+            We have 1 paper (Minuscule Cell Detection in AS-OCT Images) accepted to <span class="event-highlight">International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI 2025)</span>.
         </div>
     </div>
 
@@ -409,14 +409,14 @@ Funds & Projects
 
 ### Current Projects:
 
-- 2025 [UCL-SJTU University Strategic Partner Funds](https://www.ucl.ac.uk/global/ucl-global-engagement-funding): AI-Enhanced CTS Diagnosis and Care Tackling the Invisible Burden with Equity, with overall budget £10k, as co-investigator;
-- 2024-2028 [National Natural Science Foundation of China (NSFC) General Program](https://www.nsfc.gov.cn/publish/portal0/tab1417/) with overall budget ￥400k, as co-investigator;
-- 2024 [UCL Global Engagement Funds](https://www.ucl.ac.uk/global/ucl-global-engagement-funding): Knowledge-Enhanced AI for Early Diagnosis and Risk Management of Arthritis in Primary Healthcare Settings, with overall budget £5k, as principal investigator;
+- 2025 [UCL-SJTU University Strategic Partner Funds](https://www.ucl.ac.uk/global/news/2023/jan/partner-funds-202223-recipients): AI-Enhanced CTS Diagnosis and Care Tackling the Invisible Burden with Equity, with overall budget £10k, as co-investigator;
+- 2024-2028 [National Natural Science Foundation of China (NSFC) General Program](https://www.nsfc.gov.cn/p1/2871/2874/2882/69566.html) with overall budget ￥400k, as co-investigator;
+- 2024 [UCL Global Engagement Funds](https://www.ucl.ac.uk/global/funding-staff/global-engagement-funds): Knowledge-Enhanced AI for Early Diagnosis and Risk Management of Arthritis in Primary Healthcare Settings, with overall budget £5k, as principal investigator;
 - 2024 [Total Energies SE](https://totalenergies.com/): Towards Automatic Calibration and Reduced Computational Time for Forward Stratigraphic Modelling in CRONOS Using Deep Learning, as participant;
 
 ### Past Projects:
 
-- 2024-2028 [AI future](https://www.great.gov.uk/campaign-site/ai-futures/#:~:text=The%20UK%20Government's%20AI%20Futures,the%20UK's%20thriving%20AI%20ecosystem.) with an overall budget £8k, as principal investigator;
+- 2024-2028 [AI future](https://www.gov.uk/government/publications/ai-opportunities-action-plan/ai-opportunities-action-plan.) with an overall budget £8k from the by Department of Business and Trade UK, as principal investigator;
 
 International Collaborations
 ---------
